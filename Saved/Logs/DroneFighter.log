@@ -1210,3 +1210,1829 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.13-15.08.36:134][843]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/NE_SpaceDust_System1B3F2EC140EB3E8287BA1AB4C3C295D1.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FX/NE_SpaceDust_System.uasset'
 [2022.02.13-15.08.36:145][843]AssetCheck: New page: Asset Save: NE_SpaceDust_System
 [2022.02.13-15.08.36:146][843]LogContentValidation: Display: Validating NiagaraSystem /Game/Assets/Enviromments/FX/NE_SpaceDust_System.NE_SpaceDust_System
+[2022.02.13-15.18.11:377][506]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2022.02.13-15.18.12:209][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-15.20.16:051][184]Cmd: STAT FPS
+[2022.02.13-15.20.34:135][242]Cmd: STAT FPS
+[2022.02.13-15.20.42:467][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.42:474][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.42:478][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.42:489][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.46:916][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.46:923][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.46:929][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.20.46:936][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.21.39:025][601]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.02.13-15.21.39:025][601]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.13-15.21.39:025][601]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.13-15.21.39:025][601]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.13-15.21.39:026][601]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.13-15.21.39:026][601]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.13-15.21.39:026][601]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.13-15.21.39:027][601]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.13-15.21.39:027][601]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.13-15.21.39:027][601]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.02.13-15.21.40:615][788]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.13-15.21.40:615][788]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.13-15.21.40:616][788]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.13-15.21.40:616][788]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:4]]
+[2022.02.13-15.21.40:621][788]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:621][788]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.13-15.21.40:621][788]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.13-15.21.40:621][788]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.40:621][788]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2022.02.13-15.21.40:621][788]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2022.02.13-15.21.40:621][788]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2022.02.13-15.21.40:630][789]LogRenderer: Reallocating scene render targets to support 1700x928 Format 10 NumSamples 1 (Frame:32967).
+[2022.02.13-15.21.40:656][790]LogContentStreaming: Texture pool size now 3000 MB
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2022.02.13-15.21.42:579][ 17]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2022.02.13-15.21.42:580][ 17]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.13-15.21.42:585][ 17]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2022.02.13-15.21.42:599][ 18]LogRenderer: Reallocating scene render targets to support 1700x928 Format 9 NumSamples 1 (Frame:32968).
+[2022.02.13-15.21.42:635][ 21]LogContentStreaming: Texture pool size now 600 MB
+[2022.02.13-15.21.43:647][141]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2022.02.13-15.21.43:647][141]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.13-15.21.43:647][141]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.02.13-15.21.43:647][141]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.13-15.21.43:648][141]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.13-15.21.43:648][141]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.13-15.21.43:649][141]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2022.02.13-15.21.43:654][141]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:654][141]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2022.02.13-15.21.43:654][141]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2022.02.13-15.21.43:654][141]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.43:654][141]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.13-15.21.43:654][141]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.13-15.21.43:654][141]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.13-15.21.43:667][142]LogRenderer: Reallocating scene render targets to support 1700x928 Format 9 NumSamples 1 (Frame:32969).
+[2022.02.13-15.21.43:728][147]LogContentStreaming: Texture pool size now 800 MB
+[2022.02.13-15.21.44:223][206]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.13-15.21.44:223][206]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.13-15.21.44:223][206]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.13-15.21.44:223][206]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.13-15.21.44:224][206]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.13-15.21.44:224][206]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.13-15.21.44:225][206]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.13-15.21.44:230][206]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:230][206]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.13-15.21.44:230][206]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.13-15.21.44:230][206]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/GameCraft/DroneFighter/Saved/Config/Windows/Scalability.ini]
+[2022.02.13-15.21.44:230][206]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.13-15.21.44:230][206]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.13-15.21.44:230][206]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.13-15.21.44:240][207]LogRenderer: Reallocating scene render targets to support 1700x928 Format 10 NumSamples 1 (Frame:32970).
+[2022.02.13-15.21.44:282][210]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.13-15.21.48:335][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-15.25.58:096][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.13-15.25.58:098][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Saved/Autosaves/Game/Maps/Enviromment_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.02.13-15.25.58:102][776]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment_Auto15A17196F47BD6A3E791938810EAD6C79.tmp' to 'G:/GameCraft/DroneFighter/Saved/Autosaves/Game/Maps/Enviromment_Auto1.umap'
+[2022.02.13-15.25.58:103][776]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Enviromment' took 0.019
+[2022.02.13-15.25.58:103][776]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2022.02.13-15.26.00:904][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.13-15.26.02:829][ 36]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.26.02:866][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.26.02:873][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.13-15.26.02:877][ 36]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment43B7E788421F38D9054A6C9A66199F59.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.26.02:890][ 36]LogFileHelpers: Saving map 'Enviromment' took 0.024
+[2022.02.13-15.26.02:914][ 36]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.26.02:914][ 36]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.26.02:914][ 36]LightingResults: New page: Lighting Build
+[2022.02.13-15.26.02:914][ 36]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.26.02:916][ 36]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.26.02:916][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.26.02:916][ 36]MapCheck: New page: Map Check
+[2022.02.13-15.26.02:916][ 36]LightingResults: New page: Lighting Build
+[2022.02.13-15.26.02:922][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.26.02:924][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.02.13-15.26.02:924][ 36]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.26.02:925][ 36]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.26.02:925][ 36]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.26.02:934][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.26.02:946][ 36]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.26.02:946][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2022.02.13-15.26.02:946][ 36]LogFileHelpers: Loading map 'TestLevel' took 0.032
+[2022.02.13-15.26.02:974][ 36]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.26.02:974][ 36]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.26.49:920][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.26.49:952][922]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.26.49:952][922]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.26.49:952][922]LightingResults: New page: Lighting Build
+[2022.02.13-15.26.49:952][922]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.26.49:953][922]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.26.49:953][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.26.49:953][922]MapCheck: New page: Map Check
+[2022.02.13-15.26.49:953][922]LightingResults: New page: Lighting Build
+[2022.02.13-15.26.49:960][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.26.49:961][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.02.13-15.26.49:962][922]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.26.49:963][922]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.26.49:963][922]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.26.49:972][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.26.49:983][922]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.26.49:984][922]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2022.02.13-15.26.49:984][922]LogFileHelpers: Loading map 'Enviromment' took 0.032
+[2022.02.13-15.30.30:570][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.13-15.30.31:910][735]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.30.31:950][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.30.31:959][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.13-15.30.31:965][735]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentD32A4B2948E264D3F809B584611D2B95.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.30.31:975][735]LogFileHelpers: Saving map 'Enviromment' took 0.025
+[2022.02.13-15.30.31:984][735]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.30.31:984][735]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.30.34:318][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.02.13-15.30.34:347][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.30.34:347][989]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.30.34:347][989]LightingResults: New page: Lighting Build
+[2022.02.13-15.30.34:347][989]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.30.34:349][989]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.30.34:349][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.30.34:349][989]MapCheck: New page: Map Check
+[2022.02.13-15.30.34:349][989]LightingResults: New page: Lighting Build
+[2022.02.13-15.30.34:355][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.30.34:357][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.02.13-15.30.34:357][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.30.34:358][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.30.34:358][989]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.30.34:367][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.30.34:378][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.30.34:378][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2022.02.13-15.30.34:378][989]LogFileHelpers: Loading map 'TestLevel' took 0.031
+[2022.02.13-15.30.35:622][133]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NE_SpaceRocks_System)
+[2022.02.13-15.30.36:811][268]Cmd: DELETE
+[2022.02.13-15.30.36:811][268]Cmd: ACTOR DELETE
+[2022.02.13-15.30.36:812][268]LogEditorActor: Deleted Actor: NiagaraActor
+[2022.02.13-15.30.36:820][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.30.36:821][268]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.02.13-15.30.42:584][917]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.02.13-15.30.52:686][ 84]LogSlate: Window 'Levels' being destroyed
+[2022.02.13-15.31.04:354][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.02.13-15.31.05:623][480]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.31.05:649][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.31.05:657][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.02.13-15.31.05:660][480]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/TestLevelF07CF99C4048EB52319043A6D20D21D0.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap'
+[2022.02.13-15.31.05:672][480]LogFileHelpers: Saving map 'TestLevel' took 0.024
+[2022.02.13-15.31.05:681][480]AssetCheck: New page: Asset Save: TestLevel
+[2022.02.13-15.31.05:682][480]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.32.55:551][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.32.55:558][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.32.55:564][477]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/TestLevelDDB1B7484EC72E5CBEF9B0B06174FE50.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap'
+[2022.02.13-15.32.55:587][477]AssetCheck: New page: Asset Save: TestLevel
+[2022.02.13-15.32.55:587][477]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.33.01:786][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.13-15.33.04:489][179]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.33.04:520][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.33.04:527][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.02.13-15.33.04:529][179]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/TestLevelDFDA64C443C0B7ED239AE3AD9FFC521F.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap'
+[2022.02.13-15.33.04:542][179]LogFileHelpers: Saving map 'TestLevel' took 0.022
+[2022.02.13-15.33.04:566][179]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.33.04:567][179]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.33.04:567][179]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.04:567][179]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.33.04:568][179]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.04:568][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.04:568][179]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.04:568][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.04:569][179]MapCheck: New page: Map Check
+[2022.02.13-15.33.04:569][179]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.04:575][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.33.04:576][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.02.13-15.33.04:576][179]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.33.04:578][179]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.33.04:578][179]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.33.04:588][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-15.33.04:600][179]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.33.04:601][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,242ms to complete.
+[2022.02.13-15.33.04:601][179]LogFileHelpers: Loading map 'Enviromment' took 0.034
+[2022.02.13-15.33.04:630][179]AssetCheck: New page: Asset Save: TestLevel
+[2022.02.13-15.33.04:630][179]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.33.04:640][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.33.21:439][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.02.13-15.33.21:482][176]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.33.21:482][176]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.33.21:482][176]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.21:482][176]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.33.21:483][176]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.21:484][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.21:484][176]MapCheck: New page: Map Check
+[2022.02.13-15.33.21:484][176]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.21:490][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.33.21:492][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.02.13-15.33.21:492][176]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.33.21:493][176]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.33.21:493][176]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.33.21:499][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.33.21:499][176]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.33.21:510][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.02.13-15.33.21:522][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.33.21:522][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2022.02.13-15.33.21:522][176]LogFileHelpers: Loading map 'TestLevel' took 0.040
+[2022.02.13-15.33.23:053][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.02.13-15.33.23:108][342]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.33.23:108][342]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.33.23:108][342]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.23:109][342]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.33.23:110][342]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.23:111][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.23:111][342]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.23:111][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.23:112][342]MapCheck: New page: Map Check
+[2022.02.13-15.33.23:112][342]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.23:119][342]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.33.23:122][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.13-15.33.23:123][342]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.33.23:124][342]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.33.23:126][342]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.33.23:137][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.02.13-15.33.23:149][342]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.33.23:150][342]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2022.02.13-15.33.23:150][342]LogFileHelpers: Loading map 'Enviromment' took 0.041
+[2022.02.13-15.33.23:176][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.13-15.33.44:098][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.33.45:192][696]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.33.45:234][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.33.45:241][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.33.45:246][696]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment0811234342E2ED673F3D5681E02E9CD5.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.33.45:259][696]LogFileHelpers: Saving map 'Enviromment' took 0.025
+[2022.02.13-15.33.45:267][696]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.33.45:267][696]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.33.46:762][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.13-15.33.46:790][859]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.33.46:790][859]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.33.46:790][859]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.46:790][859]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.33.46:791][859]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.33.46:791][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.33.46:792][859]MapCheck: New page: Map Check
+[2022.02.13-15.33.46:792][859]LightingResults: New page: Lighting Build
+[2022.02.13-15.33.46:800][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.33.46:801][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.02.13-15.33.46:801][859]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.33.46:802][859]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.33.46:802][859]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.33.46:808][859]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.33.46:808][859]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.33.46:819][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.13-15.33.46:835][859]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.33.46:835][859]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,107ms to complete.
+[2022.02.13-15.33.46:835][859]LogFileHelpers: Loading map 'TestLevel' took 0.046
+[2022.02.13-15.33.52:819][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.02.13-15.34.36:285][579]LogSlate: Window 'New Level' being destroyed
+[2022.02.13-15.34.36:290][579]LightingResults: New page: Lighting Build
+[2022.02.13-15.34.36:292][579]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.34.36:292][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.34.36:292][579]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.34.36:292][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.34.36:293][579]MapCheck: New page: Map Check
+[2022.02.13-15.34.36:293][579]LightingResults: New page: Lighting Build
+[2022.02.13-15.34.36:299][579]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.34.36:301][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.02.13-15.34.36:304][579]LogAIModule: Creating AISystem for world Untitled
+[2022.02.13-15.34.36:305][579]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.13-15.34.36:305][579]LoadErrors: New page: New Map
+[2022.02.13-15.34.36:314][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.13-15.34.39:307][927]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.13-15.34.53:659][927]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.13-15.34.53:702][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.34.53:709][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.13-15.34.53:712][927]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MainMenu7A05F0D1431C7A9C633F46AD7829D348.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap'
+[2022.02.13-15.34.53:731][927]LogFileHelpers: Saving map 'MainMenu' took 0.066
+[2022.02.13-15.34.53:735][927]AssetCheck: New page: Asset Save: MainMenu
+[2022.02.13-15.34.53:735][927]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.34.59:407][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.34.59:424][603]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.34.59:424][603]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.34.59:424][603]LightingResults: New page: Lighting Build
+[2022.02.13-15.34.59:424][603]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.34.59:425][603]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.34.59:425][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.34.59:425][603]MapCheck: New page: Map Check
+[2022.02.13-15.34.59:425][603]LightingResults: New page: Lighting Build
+[2022.02.13-15.34.59:432][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.34.59:433][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.34.59:434][603]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.34.59:435][603]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.34.59:436][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.34.59:445][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.02.13-15.34.59:460][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.34.59:460][603]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,072ms to complete.
+[2022.02.13-15.34.59:460][603]LogFileHelpers: Loading map 'MainMenu' took 0.036
+[2022.02.13-15.35.02:250][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.02.13-15.35.02:292][934]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.35.02:292][934]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.35.02:292][934]LightingResults: New page: Lighting Build
+[2022.02.13-15.35.02:292][934]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.35.02:293][934]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.35.02:293][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.35.02:293][934]MapCheck: New page: Map Check
+[2022.02.13-15.35.02:293][934]LightingResults: New page: Lighting Build
+[2022.02.13-15.35.02:300][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.35.02:302][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.13-15.35.02:303][934]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.35.02:304][934]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.35.02:305][934]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.35.02:316][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.02.13-15.35.02:328][934]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.35.02:328][934]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2022.02.13-15.35.02:328][934]LogFileHelpers: Loading map 'MainMenu' took 0.036
+[2022.02.13-15.35.08:594][670]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.35.08:594][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.35.08:598][670]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.35.08:599][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.35.08:650][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.02.13-15.35.13:404][203]LogActorFactory: Actor Factory created Cube
+[2022.02.13-15.35.13:640][228]LogActorFactory: Actor Factory created Cube
+[2022.02.13-15.35.14:766][338]LogActorFactory: Actor Factory created Sphere
+[2022.02.13-15.35.15:119][375]LogActorFactory: Actor Factory created Sphere
+[2022.02.13-15.35.16:037][472]LogActorFactory: Actor Factory created Cylinder
+[2022.02.13-15.35.16:364][504]LogActorFactory: Actor Factory created Cylinder
+[2022.02.13-15.39.20:415][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.02.13-15.39.22:888][177]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.39.22:923][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.39.22:930][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.02.13-15.39.22:933][177]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MainMenuF1D97F9347F4676E1859BCBDDDFD8DA8.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap'
+[2022.02.13-15.39.22:945][177]LogFileHelpers: Saving map 'MainMenu' took 0.022
+[2022.02.13-15.39.23:016][177]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.39.23:016][177]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.39.23:016][177]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.23:016][177]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.39.23:018][177]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.23:018][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.23:018][177]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.23:018][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.23:019][177]MapCheck: New page: Map Check
+[2022.02.13-15.39.23:019][177]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.23:025][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.39.23:026][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.02.13-15.39.23:027][177]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.39.23:028][177]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.39.23:028][177]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.39.23:033][177]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.39.23:033][177]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.39.23:043][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.39.23:055][177]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.39.23:055][177]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.39.23:055][177]LogFileHelpers: Loading map 'TestLevel' took 0.040
+[2022.02.13-15.39.23:093][177]AssetCheck: New page: Asset Save: MainMenu
+[2022.02.13-15.39.23:093][177]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.39.23:103][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.39.24:355][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.02.13-15.39.24:400][312]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.39.24:400][312]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.39.24:400][312]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.24:401][312]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.39.24:402][312]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.24:402][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.24:402][312]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.24:402][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.24:403][312]MapCheck: New page: Map Check
+[2022.02.13-15.39.24:403][312]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.24:408][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.39.24:410][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-15.39.24:410][312]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.39.24:411][312]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.39.24:411][312]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.39.24:416][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.39.24:416][312]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.39.24:426][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.13-15.39.24:441][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.39.24:441][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2022.02.13-15.39.24:441][312]LogFileHelpers: Loading map 'MainMenu' took 0.041
+[2022.02.13-15.39.24:468][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.39.25:491][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.13-15.39.25:532][420]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.39.25:532][420]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.39.25:532][420]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.25:532][420]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.39.25:533][420]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.25:533][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.25:533][420]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.25:533][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.25:534][420]MapCheck: New page: Map Check
+[2022.02.13-15.39.25:534][420]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.25:540][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.39.25:541][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.13-15.39.25:541][420]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.39.25:542][420]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.39.25:545][420]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.39.25:554][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.39.25:559][420]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.39.25:559][420]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2022.02.13-15.39.25:559][420]LogFileHelpers: Loading map 'Enviromment' took 0.028
+[2022.02.13-15.39.25:587][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.39.26:462][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.02.13-15.39.26:505][517]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.39.26:505][517]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.39.26:505][517]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.26:505][517]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.39.26:506][517]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.39.26:506][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.39.26:506][517]MapCheck: New page: Map Check
+[2022.02.13-15.39.26:506][517]LightingResults: New page: Lighting Build
+[2022.02.13-15.39.26:512][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.39.26:514][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.02.13-15.39.26:514][517]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.39.26:515][517]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.39.26:515][517]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.39.26:521][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.39.26:521][517]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.39.26:530][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.13-15.39.26:543][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.39.26:543][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2022.02.13-15.39.26:543][517]LogFileHelpers: Loading map 'MainMenu' took 0.039
+[2022.02.13-15.39.42:197][305]Cmd: DELETE
+[2022.02.13-15.39.42:197][305]Cmd: ACTOR DELETE
+[2022.02.13-15.39.42:198][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.13-15.39.42:198][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.13-15.39.42:199][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.13-15.39.42:205][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.39.42:208][305]LogEditorActor: Deleted 3 Actors (0.011 secs)
+[2022.02.13-15.39.47:611][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.39.48:714][931]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.39.48:774][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.39.48:780][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.13-15.39.48:783][931]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MainMenuD0FB3F7946C30C231AE130AA87D42758.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap'
+[2022.02.13-15.39.48:797][931]LogFileHelpers: Saving map 'MainMenu' took 0.023
+[2022.02.13-15.39.48:814][931]AssetCheck: New page: Asset Save: MainMenu
+[2022.02.13-15.39.48:814][931]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.40.13:075][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.40.13:081][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.40.13:089][783]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentFEA70D424D894B53FEB0A3AB6311A559.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.40.13:136][783]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.40.13:136][783]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.40.18:557][407]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-15.40.18:564][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-15.40.18:564][407]PIE: New page: PIE session: MainMenu (2022. febr. 13. 17:40:18)
+[2022.02.13-15.40.18:565][407]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.13-15.40.18:567][407]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.13-15.40.18:567][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.40.18:568][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000879s)
+[2022.02.13-15.40.18:569][407]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.40.18:569][407]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2022.02.13-15.40.18:569][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002086s)
+[2022.02.13-15.40.18:575][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.40.18:577][407]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-15.40.18:577][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-15.40.18:577][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-15.40.18:577][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-15.40.18:577][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-15.40.18:577][407]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-15.40.18:581][407]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-15.40.18:581][407]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-15.40.18:591][407]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-15.40.18:591][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-15.40.18:591][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-15.40.18:591][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-15.40.18:592][407]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-15.40.18:592][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-15.40.18:592][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-15.40.18:593][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-15.40.18:593][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-15.40.18:593][407]LogInit: FAudioDevice initialized.
+[2022.02.13-15.40.18:593][407]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMenu'.
+[2022.02.13-15.40.18:601][407]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-15.40.18:604][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.02.13-16.40.18
+[2022.02.13-15.40.18:604][407]LogWorld: Bringing up level for play took: 0.000482
+[2022.02.13-15.40.18:605][407]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.02.13-15.40.18:608][407]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.02.13-15.40.18:609][407]PIE: Server logged in
+[2022.02.13-15.40.18:610][407]PIE: Play in editor total start time 0,047 seconds.
+[2022.02.13-15.40.49:659][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.40.49:659][121]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.40.49:659][121]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.40.49:659][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.40.49:668][121]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-15.40.49:670][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.40.49:676][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.40.49:676][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.40.49:677][121]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.40.49:680][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.13-15.40.49:710][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.40.49:739][123]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.02.13-15.40.54:509][675]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-15.40.54:516][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-15.40.54:516][675]PIE: New page: PIE session: MainMenu (2022. febr. 13. 17:40:54)
+[2022.02.13-15.40.54:516][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.40.54:517][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001067s)
+[2022.02.13-15.40.54:519][675]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.40.54:519][675]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2022.02.13-15.40.54:519][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002969s)
+[2022.02.13-15.40.54:526][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.40.54:527][675]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-15.40.54:527][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-15.40.54:527][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-15.40.54:528][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-15.40.54:528][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-15.40.54:528][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-15.40.54:528][675]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-15.40.54:531][675]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-15.40.54:531][675]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-15.40.54:539][675]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-15.40.54:539][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-15.40.54:539][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-15.40.54:539][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-15.40.54:540][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-15.40.54:540][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-15.40.54:540][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-15.40.54:541][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-15.40.54:541][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-15.40.54:541][675]LogInit: FAudioDevice initialized.
+[2022.02.13-15.40.54:541][675]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenu'.
+[2022.02.13-15.40.54:549][675]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-15.40.54:552][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.02.13-16.40.54
+[2022.02.13-15.40.54:553][675]LogWorld: Bringing up level for play took: 0.000450
+[2022.02.13-15.40.54:553][675]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.02.13-15.40.54:555][675]PIE: Server logged in
+[2022.02.13-15.40.54:556][675]PIE: Play in editor total start time 0,041 seconds.
+[2022.02.13-15.41.02:248][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.41.02:249][581]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.41.02:249][581]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.02:249][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.02:259][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-15.41.02:262][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.02:268][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.41.02:268][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.41.02:269][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.41.02:272][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.41.02:302][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.02.13-15.41.02:335][583]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.02.13-15.41.17:856][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.41.18:871][295]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.41.18:921][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.41.18:927][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.41.18:931][295]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment889BFA01413E57422C05D18288002943.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.41.18:932][295]LogFileHelpers: Saving map 'Enviromment' took 0.011
+[2022.02.13-15.41.18:932][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.41.18:940][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.41.18:942][295]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MainMenuCD8455EA4F837530E2F80F9ED535EAA5.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap'
+[2022.02.13-15.41.18:954][295]LogFileHelpers: Saving map 'MainMenu' took 0.022
+[2022.02.13-15.41.18:962][295]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-15.41.18:962][295]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.41.18:962][295]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.41.20:158][430]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-15.41.20:165][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-15.41.20:165][430]PIE: New page: PIE session: MainMenu (2022. febr. 13. 17:41:20)
+[2022.02.13-15.41.20:166][430]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.41.20:167][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2022.02.13-15.41.20:168][430]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.41.20:169][430]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2022.02.13-15.41.20:169][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003563s)
+[2022.02.13-15.41.20:177][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.41.20:178][430]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-15.41.20:178][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-15.41.20:178][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-15.41.20:178][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-15.41.20:178][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-15.41.20:178][430]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-15.41.20:181][430]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-15.41.20:181][430]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-15.41.20:189][430]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-15.41.20:189][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-15.41.20:190][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-15.41.20:190][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-15.41.20:190][430]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-15.41.20:190][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-15.41.20:190][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-15.41.20:191][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-15.41.20:191][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-15.41.20:191][430]LogInit: FAudioDevice initialized.
+[2022.02.13-15.41.20:191][430]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2022.02.13-15.41.20:202][430]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-15.41.20:205][430]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.02.13-16.41.20
+[2022.02.13-15.41.20:205][430]LogWorld: Bringing up level for play took: 0.000410
+[2022.02.13-15.41.20:205][430]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.02.13-15.41.20:207][430]PIE: Server logged in
+[2022.02.13-15.41.20:208][430]PIE: Play in editor total start time 0,044 seconds.
+[2022.02.13-15.41.23:139][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.41.23:139][775]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.41.23:139][775]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.23:139][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.23:145][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-15.41.23:147][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.23:153][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.41.23:153][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.41.23:154][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.41.23:157][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.41.23:185][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.41.23:213][777]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.02.13-15.41.46:824][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-15.41.46:871][405]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.41.46:872][405]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.41.46:872][405]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.46:872][405]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.41.46:873][405]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.46:873][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.46:873][405]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.46:873][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.46:873][405]MapCheck: New page: Map Check
+[2022.02.13-15.41.46:873][405]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.46:879][405]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.41.46:880][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-15.41.46:880][405]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.41.46:881][405]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.41.46:883][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.41.46:891][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.13-15.41.46:903][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.41.46:903][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2022.02.13-15.41.46:903][405]LogFileHelpers: Loading map 'Enviromment' took 0.032
+[2022.02.13-15.41.46:930][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.41.49:095][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.41.49:142][646]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.41.49:142][646]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.41.49:142][646]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.49:142][646]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.41.49:143][646]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.49:143][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.49:143][646]MapCheck: New page: Map Check
+[2022.02.13-15.41.49:144][646]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.49:150][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.41.49:151][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.02.13-15.41.49:152][646]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.41.49:153][646]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.41.49:153][646]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.41.49:158][646]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.41.49:158][646]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.41.49:168][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.41.49:180][646]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.41.49:180][646]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.41.49:180][646]LogFileHelpers: Loading map 'MainMenu' took 0.038
+[2022.02.13-15.41.50:847][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.41.50:891][818]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.41.50:891][818]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.41.50:891][818]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.50:891][818]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.41.50:892][818]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.50:892][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.50:892][818]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.41.50:892][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.41.50:893][818]MapCheck: New page: Map Check
+[2022.02.13-15.41.50:893][818]LightingResults: New page: Lighting Build
+[2022.02.13-15.41.50:898][818]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.41.50:899][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.41.50:900][818]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.41.50:900][818]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.41.50:902][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.41.50:911][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.41.50:922][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.41.50:923][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2022.02.13-15.41.50:923][818]LogFileHelpers: Loading map 'Enviromment' took 0.032
+[2022.02.13-15.41.50:947][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.41.52:418][983]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-15.41.52:425][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-15.41.52:425][983]PIE: New page: PIE session: Enviromment (2022. febr. 13. 17:41:52)
+[2022.02.13-15.41.52:425][983]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-15.41.52:427][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001583s)
+[2022.02.13-15.41.52:427][983]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.41.52:428][983]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2022.02.13-15.41.52:428][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Enviromment.Enviromment to /Game/Maps/UEDPIE_0_Enviromment.Enviromment (0.002847s)
+[2022.02.13-15.41.52:436][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.02.13-15.41.52:437][983]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-15.41.52:437][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-15.41.52:437][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-15.41.52:438][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-15.41.52:438][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-15.41.52:438][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-15.41.52:438][983]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-15.41.52:441][983]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-15.41.52:441][983]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-15.41.52:449][983]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-15.41.52:449][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-15.41.52:449][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-15.41.52:449][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-15.41.52:450][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-15.41.52:450][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-15.41.52:450][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-15.41.52:451][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-15.41.52:451][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-15.41.52:451][983]LogInit: FAudioDevice initialized.
+[2022.02.13-15.41.52:451][983]LogAudio: Display: Audio Device (ID: 5) registered with world 'Enviromment'.
+[2022.02.13-15.41.52:459][983]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-15.41.52:460][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Enviromment.Enviromment up for play (max tick rate 0) at 2022.02.13-16.41.52
+[2022.02.13-15.41.52:460][983]LogWorld: Bringing up level for play took: 0.000648
+[2022.02.13-15.41.52:460][983]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.02.13-15.41.52:463][983]PIE: Server logged in
+[2022.02.13-15.41.52:464][983]PIE: Play in editor total start time 0,04 seconds.
+[2022.02.13-15.42.02:229][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.42.02:229][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-15.42.02:229][144]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.02:229][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.02:237][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-15.42.02:240][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.02:245][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.42.02:246][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.42.02:247][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.42.02:250][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.42.02:304][146]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.02.13-15.42.08:688][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.13-15.42.08:734][864]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.42.08:734][864]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.42.08:734][864]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.08:734][864]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.42.08:735][864]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.08:735][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.08:736][864]MapCheck: New page: Map Check
+[2022.02.13-15.42.08:736][864]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.08:743][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.42.08:746][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.13-15.42.08:746][864]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.42.08:747][864]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.42.08:747][864]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.42.08:751][864]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.42.08:752][864]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.42.08:761][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.42.08:773][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.42.08:773][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2022.02.13-15.42.08:773][864]LogFileHelpers: Loading map 'MainMenu' took 0.039
+[2022.02.13-15.42.13:500][408]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-15.42.13:507][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-15.42.13:507][408]PIE: New page: PIE session: MainMenu (2022. febr. 13. 17:42:13)
+[2022.02.13-15.42.13:508][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.42.13:508][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000794s)
+[2022.02.13-15.42.13:509][408]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.42.13:509][408]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2022.02.13-15.42.13:509][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001906s)
+[2022.02.13-15.42.13:516][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.42.13:517][408]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-15.42.13:518][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-15.42.13:518][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-15.42.13:518][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-15.42.13:518][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-15.42.13:518][408]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-15.42.13:521][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-15.42.13:521][408]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-15.42.13:530][408]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-15.42.13:530][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-15.42.13:530][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-15.42.13:530][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-15.42.13:531][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-15.42.13:531][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-15.42.13:531][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-15.42.13:532][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-15.42.13:532][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-15.42.13:532][408]LogInit: FAudioDevice initialized.
+[2022.02.13-15.42.13:532][408]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2022.02.13-15.42.13:540][408]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-15.42.13:543][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2022.02.13-16.42.13
+[2022.02.13-15.42.13:544][408]LogWorld: Bringing up level for play took: 0.000418
+[2022.02.13-15.42.13:544][408]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.02.13-15.42.13:546][408]PIE: Server logged in
+[2022.02.13-15.42.13:547][408]PIE: Play in editor total start time 0,04 seconds.
+[2022.02.13-15.42.34:570][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.42.34:570][919]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2022.02.13-15.42.34:570][919]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.34:570][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.34:578][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-15.42.34:580][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.34:586][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-15.42.34:586][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.42.34:587][919]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-15.42.34:590][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.42.34:620][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.42.34:648][921]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.02.13-15.42.36:151][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.13-15.42.36:198][ 91]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.42.36:199][ 91]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.42.36:199][ 91]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.36:199][ 91]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.42.36:201][ 91]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.36:201][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.36:201][ 91]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.36:201][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.36:202][ 91]MapCheck: New page: Map Check
+[2022.02.13-15.42.36:202][ 91]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.36:208][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.42.36:209][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.02.13-15.42.36:210][ 91]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.42.36:210][ 91]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.42.36:210][ 91]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.42.36:215][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.42.36:215][ 91]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.42.36:224][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.42.36:236][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.42.36:237][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.42.36:237][ 91]LogFileHelpers: Loading map 'TestLevel' took 0.038
+[2022.02.13-15.42.36:266][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-15.42.37:291][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.42.37:332][203]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.42.37:332][203]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.42.37:332][203]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.37:332][203]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.42.37:333][203]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.37:333][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.37:333][203]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.37:333][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.37:334][203]MapCheck: New page: Map Check
+[2022.02.13-15.42.37:334][203]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.37:340][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.42.37:341][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.13-15.42.37:342][203]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.42.37:342][203]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.42.37:342][203]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.42.37:347][203]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.42.37:347][203]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.42.37:356][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.02.13-15.42.37:368][203]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.42.37:368][203]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,098ms to complete.
+[2022.02.13-15.42.37:368][203]LogFileHelpers: Loading map 'MainMenu' took 0.036
+[2022.02.13-15.42.37:398][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-15.42.38:073][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.02.13-15.42.38:108][275]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.42.38:108][275]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.42.38:108][275]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.38:108][275]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.42.38:109][275]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.38:110][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.38:110][275]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.38:110][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.38:110][275]MapCheck: New page: Map Check
+[2022.02.13-15.42.38:110][275]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.38:116][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.42.38:118][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.42.38:118][275]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.42.38:119][275]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.42.38:120][275]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.42.38:130][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.42.38:142][275]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.42.38:142][275]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2022.02.13-15.42.38:142][275]LogFileHelpers: Loading map 'Enviromment' took 0.034
+[2022.02.13-15.42.38:169][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-15.42.38:854][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.42.38:897][350]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.42.38:897][350]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.42.38:897][350]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.38:897][350]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.42.38:898][350]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.42.38:898][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.42.38:898][350]MapCheck: New page: Map Check
+[2022.02.13-15.42.38:898][350]LightingResults: New page: Lighting Build
+[2022.02.13-15.42.38:904][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.42.38:905][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.13-15.42.38:906][350]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.42.38:907][350]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.42.38:907][350]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.42.38:912][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.42.38:912][350]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.42.38:923][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.02.13-15.42.38:934][350]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.42.38:934][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.42.38:934][350]LogFileHelpers: Loading map 'MainMenu' took 0.038
+[2022.02.13-15.43.57:540][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.02.13-15.43.59:188][558]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.43.59:248][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMenu" FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.43.59:254][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.43.59:257][558]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MainMenu79D570E5401E4882A9BA9E9D459A04A7.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap'
+[2022.02.13-15.43.59:270][558]LogFileHelpers: Saving map 'MainMenu' took 0.023
+[2022.02.13-15.43.59:301][558]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.43.59:301][558]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.43.59:302][558]LightingResults: New page: Lighting Build
+[2022.02.13-15.43.59:302][558]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.43.59:303][558]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.43.59:303][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.43.59:303][558]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.43.59:303][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.43.59:304][558]MapCheck: New page: Map Check
+[2022.02.13-15.43.59:304][558]LightingResults: New page: Lighting Build
+[2022.02.13-15.43.59:310][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.43.59:312][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.43.59:313][558]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.43.59:314][558]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.43.59:315][558]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.43.59:315][558]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.43.59:320][558]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.43.59:328][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.43.59:340][558]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.43.59:340][558]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.43.59:340][558]LogFileHelpers: Loading map 'MainMenu' took 0.039
+[2022.02.13-15.43.59:363][558]AssetCheck: New page: Asset Save: MainMenu
+[2022.02.13-15.43.59:363][558]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.43.59:370][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.13-15.46.08:484][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.13-15.46.17:983][963]LogSlate: Window 'New Level' being destroyed
+[2022.02.13-15.46.17:989][963]LightingResults: New page: Lighting Build
+[2022.02.13-15.46.17:991][963]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.46.17:992][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.46.17:992][963]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.46.17:992][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.46.17:992][963]MapCheck: New page: Map Check
+[2022.02.13-15.46.17:992][963]LightingResults: New page: Lighting Build
+[2022.02.13-15.46.17:998][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.46.18:000][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.02.13-15.46.18:003][963]LogAIModule: Creating AISystem for world Untitled
+[2022.02.13-15.46.18:005][963]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.13-15.46.18:005][963]LoadErrors: New page: New Map
+[2022.02.13-15.46.18:013][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.46.28:091][134]LogSlate: Window 'Save Level As' being destroyed
+[2022.02.13-15.46.28:132][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.46.28:140][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.13-15.46.28:142][134]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level1A81B3BBD48CED835B3E7EFA2518A816E.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level1.umap'
+[2022.02.13-15.46.28:159][134]LogFileHelpers: Saving map 'Level1' took 0.061
+[2022.02.13-15.46.28:161][134]AssetCheck: New page: Asset Save: Level1
+[2022.02.13-15.46.28:162][134]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.02.13-15.46.55:313][391]LogContentBrowser: Deferred new asset file creation: Level2
+[2022.02.13-15.46.55:321][391]LogContentBrowser: Creating deferred item: Level2
+[2022.02.13-15.46.57:233][621]LogContentBrowser: Attempting asset rename: Level2 -> Level2
+[2022.02.13-15.46.57:237][621]LogContentBrowser: End creating deferred item Level2
+[2022.02.13-15.46.58:881][814]LogContentBrowser: Deferred new asset file creation: Level3
+[2022.02.13-15.46.58:890][814]LogContentBrowser: Creating deferred item: Level3
+[2022.02.13-15.46.59:710][913]LogContentBrowser: Attempting asset rename: Level3 -> Level3
+[2022.02.13-15.46.59:712][913]LogContentBrowser: End creating deferred item Level3
+[2022.02.13-15.47.01:442][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.01:449][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.47.01:455][117]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level3AFEBAA2F4EC46ADFE182C4AE65ACCFC2.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level3.umap'
+[2022.02.13-15.47.01:456][117]LogFileHelpers: Saving map 'Level3' took 0.014
+[2022.02.13-15.47.01:466][117]AssetCheck: New page: Asset Save: Level3
+[2022.02.13-15.47.01:466][117]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2022.02.13-15.47.02:703][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-15.47.03:633][260]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.47.03:679][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.03:686][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-15.47.03:689][260]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level229144271495244C546FA34973DF46A3A.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level2.umap'
+[2022.02.13-15.47.03:690][260]LogFileHelpers: Saving map 'Level2' took 0.011
+[2022.02.13-15.47.03:699][260]AssetCheck: New page: Asset Save: Level2
+[2022.02.13-15.47.03:699][260]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2022.02.13-15.47.05:564][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.47.05:596][477]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.02.13-15.47.05:596][477]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.47.05:596][477]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.05:596][477]LoadErrors: New page: Loading map: Level1.umap
+[2022.02.13-15.47.05:597][477]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.05:597][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.05:598][477]MapCheck: New page: Map Check
+[2022.02.13-15.47.05:598][477]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.05:604][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.47.05:605][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.02.13-15.47.05:613][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.47.05:620][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.47.05:626][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.02.13-15.47.05:628][477]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.02.13-15.47.05:628][477]LogAIModule: Creating AISystem for world Level1
+[2022.02.13-15.47.05:629][477]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.47.05:640][477]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.47.05:652][477]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.47.05:652][477]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2022.02.13-15.47.05:652][477]LogFileHelpers: Loading map 'Level1' took 0.056
+[2022.02.13-15.47.06:668][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.47.06:700][595]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.02.13-15.47.06:700][595]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.47.06:700][595]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.06:700][595]LoadErrors: New page: Loading map: Level1.umap
+[2022.02.13-15.47.06:701][595]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.06:701][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.06:701][595]MapCheck: New page: Map Check
+[2022.02.13-15.47.06:701][595]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.06:707][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.47.06:709][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.47.06:710][595]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.02.13-15.47.06:711][595]LogAIModule: Creating AISystem for world Level1
+[2022.02.13-15.47.06:712][595]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.47.06:721][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.47.06:732][595]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.47.06:732][595]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2022.02.13-15.47.06:732][595]LogFileHelpers: Loading map 'Level1' took 0.032
+[2022.02.13-15.47.15:095][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.15:101][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-15.47.15:110][501]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment750DBC114DDA44CC9C7E9298CF61ECE7.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.15:160][501]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.47.15:160][501]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.18:830][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.47.20:318][908]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.47.20:363][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.20:369][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.47.20:374][908]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentDB0FE543488CF269598E119474FE9836.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.20:374][908]LogFileHelpers: Saving map 'Enviromment' took 0.011
+[2022.02.13-15.47.20:375][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level1" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.20:381][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.47.20:383][908]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level10D7AB2904961F15C14D6B9B858A8F17F.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level1.umap'
+[2022.02.13-15.47.20:396][908]LogFileHelpers: Saving map 'Level1' took 0.022
+[2022.02.13-15.47.20:403][908]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-15.47.20:403][908]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.20:403][908]LogContentValidation: Display: Validating World /Game/Maps/Level1.Level1
+[2022.02.13-15.47.21:691][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.47.21:713][ 44]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2022.02.13-15.47.21:714][ 44]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.47.21:714][ 44]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.21:714][ 44]LoadErrors: New page: Loading map: Level2.umap
+[2022.02.13-15.47.21:715][ 44]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.21:715][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.21:715][ 44]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.21:715][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.21:716][ 44]MapCheck: New page: Map Check
+[2022.02.13-15.47.21:716][ 44]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.21:722][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.47.21:724][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.02.13-15.47.21:724][ 44]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.02.13-15.47.21:725][ 44]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.47.21:725][ 44]LogAIModule: Creating AISystem for world Level2
+[2022.02.13-15.47.21:733][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.47.21:744][ 44]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.47.21:745][ 44]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
+[2022.02.13-15.47.21:745][ 44]LogFileHelpers: Loading map 'Level2' took 0.031
+[2022.02.13-15.47.21:777][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.47.29:896][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.29:902][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.47.29:909][863]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentB7AA184B4BD278CB5068BCB61F169535.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.29:961][863]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.47.29:961][863]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.32:294][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.47.34:398][118]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.47.34:446][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.34:452][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.02.13-15.47.34:459][118]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment26EB4794432FEC02CAFA438E538B2E55.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.34:460][118]LogFileHelpers: Saving map 'Enviromment' took 0.014
+[2022.02.13-15.47.34:460][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level2" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.34:466][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.47.34:468][118]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level233F0EE99426FDB4A79E7C6A29F241A63.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level2.umap'
+[2022.02.13-15.47.34:482][118]LogFileHelpers: Saving map 'Level2' took 0.022
+[2022.02.13-15.47.34:489][118]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-15.47.34:490][118]LogContentValidation: Display: Validating World /Game/Maps/Level2.Level2
+[2022.02.13-15.47.34:490][118]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.35:592][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.47.35:616][239]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2022.02.13-15.47.35:616][239]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.47.35:616][239]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.35:616][239]LoadErrors: New page: Loading map: Level3.umap
+[2022.02.13-15.47.35:617][239]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.35:618][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.35:618][239]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.35:618][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.35:618][239]MapCheck: New page: Map Check
+[2022.02.13-15.47.35:618][239]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.35:625][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.47.35:627][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.47.35:627][239]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.02.13-15.47.35:628][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.47.35:628][239]LogAIModule: Creating AISystem for world Level3
+[2022.02.13-15.47.35:637][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.47.35:648][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.47.35:648][239]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,077ms to complete.
+[2022.02.13-15.47.35:648][239]LogFileHelpers: Loading map 'Level3' took 0.033
+[2022.02.13-15.47.35:681][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.13-15.47.47:116][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.47:123][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.47.47:129][470]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment3AB9845F4935EC0D8E44DC84A89F7543.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.47:181][470]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.47.47:181][470]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.49:417][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.47.50:809][713]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.47.50:849][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.50:855][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.13-15.47.50:859][713]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment52F79AED4E652CC1DF18288E79E5C908.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.47.50:860][713]LogFileHelpers: Saving map 'Enviromment' took 0.011
+[2022.02.13-15.47.50:860][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level3" FILE="G:/GameCraft/DroneFighter/Content/Maps/Level3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.47.50:868][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-15.47.50:870][713]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Level32864DD634DBB32BE0401FDACD82A7E66.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Level3.umap'
+[2022.02.13-15.47.50:882][713]LogFileHelpers: Saving map 'Level3' took 0.022
+[2022.02.13-15.47.50:891][713]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-15.47.50:891][713]LogContentValidation: Display: Validating World /Game/Maps/Level3.Level3
+[2022.02.13-15.47.50:891][713]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.47.52:691][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.47.52:733][910]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.02.13-15.47.52:733][910]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.47.52:733][910]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.52:733][910]LoadErrors: New page: Loading map: Level1.umap
+[2022.02.13-15.47.52:735][910]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.52:735][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.52:735][910]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.47.52:735][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.47.52:736][910]MapCheck: New page: Map Check
+[2022.02.13-15.47.52:736][910]LightingResults: New page: Lighting Build
+[2022.02.13-15.47.52:742][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.47.52:743][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.47.52:743][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.02.13-15.47.52:744][910]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.47.52:744][910]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.47.52:749][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.47.52:749][910]LogAIModule: Creating AISystem for world Level1
+[2022.02.13-15.47.52:759][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.47.52:774][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.47.52:774][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,109ms to complete.
+[2022.02.13-15.47.52:774][910]LogFileHelpers: Loading map 'Level1' took 0.040
+[2022.02.13-15.47.52:804][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.02.13-15.48.07:124][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.48.07:157][608]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.48.07:157][608]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.48.07:157][608]LightingResults: New page: Lighting Build
+[2022.02.13-15.48.07:157][608]LoadErrors: New page: Loading map: Enviromment.umap
+[2022.02.13-15.48.07:158][608]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.48.07:158][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.48.07:158][608]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.48.07:158][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.48.07:159][608]MapCheck: New page: Map Check
+[2022.02.13-15.48.07:159][608]LightingResults: New page: Lighting Build
+[2022.02.13-15.48.07:165][608]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.48.07:166][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-15.48.07:166][608]LogAudio: Display: Audio Device (ID: 1) registered with world 'Enviromment'.
+[2022.02.13-15.48.07:167][608]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-15.48.07:169][608]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.48.07:178][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.48.07:190][608]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.48.07:191][608]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2022.02.13-15.48.07:191][608]LogFileHelpers: Loading map 'Enviromment' took 0.034
+[2022.02.13-15.48.07:217][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.49.02:418][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.49.03:973][ 64]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.49.04:004][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.49.04:010][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.49.04:014][ 64]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentA87C73A74615148E18E9F3BAEF74277F.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.49.04:027][ 64]LogFileHelpers: Saving map 'Enviromment' took 0.023
+[2022.02.13-15.49.04:053][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.02.13-15.49.04:053][ 64]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.04:053][ 64]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.04:053][ 64]LoadErrors: New page: Loading map: Level1.umap
+[2022.02.13-15.49.04:054][ 64]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.04:055][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.04:055][ 64]MapCheck: New page: Map Check
+[2022.02.13-15.49.04:055][ 64]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.04:061][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.04:063][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.49.04:063][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.02.13-15.49.04:064][ 64]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.04:064][ 64]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.04:069][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.04:069][ 64]LogAIModule: Creating AISystem for world Level1
+[2022.02.13-15.49.04:078][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.02.13-15.49.04:089][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.04:090][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2022.02.13-15.49.04:090][ 64]LogFileHelpers: Loading map 'Level1' took 0.036
+[2022.02.13-15.49.04:117][ 64]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.49.04:117][ 64]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.49.10:183][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.49.10:230][772]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level2.Level2
+[2022.02.13-15.49.10:230][772]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.10:231][772]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.10:231][772]LoadErrors: New page: Loading map: Level2.umap
+[2022.02.13-15.49.10:232][772]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.10:233][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.10:233][772]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.10:233][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.10:234][772]MapCheck: New page: Map Check
+[2022.02.13-15.49.10:234][772]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.10:241][772]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.10:243][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.02.13-15.49.10:244][772]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2022.02.13-15.49.10:245][772]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.10:245][772]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.10:252][772]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.10:252][772]LogAIModule: Creating AISystem for world Level2
+[2022.02.13-15.49.10:262][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.02.13-15.49.10:274][772]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.10:274][772]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,099ms to complete.
+[2022.02.13-15.49.10:274][772]LogFileHelpers: Loading map 'Level2' took 0.044
+[2022.02.13-15.49.10:306][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.49.11:244][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.49.11:281][878]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level3.Level3
+[2022.02.13-15.49.11:281][878]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.11:281][878]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.11:281][878]LoadErrors: New page: Loading map: Level3.umap
+[2022.02.13-15.49.11:283][878]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.11:284][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.11:284][878]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.11:284][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.11:285][878]MapCheck: New page: Map Check
+[2022.02.13-15.49.11:285][878]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.11:291][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.11:293][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.13-15.49.11:294][878]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level3'.
+[2022.02.13-15.49.11:295][878]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.11:295][878]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.11:303][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.11:303][878]LogAIModule: Creating AISystem for world Level3
+[2022.02.13-15.49.11:314][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.02.13-15.49.11:327][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.11:327][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,111ms to complete.
+[2022.02.13-15.49.11:327][878]LogFileHelpers: Loading map 'Level3' took 0.046
+[2022.02.13-15.49.11:359][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.02.13-15.49.12:186][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.02.13-15.49.12:232][968]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.49.12:232][968]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.12:232][968]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.12:232][968]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.49.12:234][968]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.12:234][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.12:234][968]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.12:234][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.12:235][968]MapCheck: New page: Map Check
+[2022.02.13-15.49.12:235][968]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.12:241][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.12:242][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.13-15.49.12:242][968]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.49.12:243][968]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.12:243][968]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.12:248][968]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.12:248][968]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.49.12:258][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.13-15.49.12:270][968]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.12:270][968]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,106ms to complete.
+[2022.02.13-15.49.12:270][968]LogFileHelpers: Loading map 'MainMenu' took 0.038
+[2022.02.13-15.49.12:302][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-15.49.13:716][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.13-15.49.13:764][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.49.13:764][114]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.13:764][114]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.13:764][114]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.49.13:765][114]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.13:765][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.13:765][114]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.13:765][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.13:766][114]MapCheck: New page: Map Check
+[2022.02.13-15.49.13:766][114]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.13:772][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.13:773][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-15.49.13:773][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.49.13:774][114]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.13:774][114]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.13:779][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.13:779][114]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.49.13:788][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.49.13:800][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.13:800][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2022.02.13-15.49.13:800][114]LogFileHelpers: Loading map 'TestLevel' took 0.036
+[2022.02.13-15.49.13:831][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.49.15:515][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.49.15:563][298]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2022.02.13-15.49.15:563][298]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.15:563][298]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.15:563][298]LoadErrors: New page: Loading map: MainMenu.umap
+[2022.02.13-15.49.15:564][298]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.15:564][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.15:565][298]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.15:565][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.15:565][298]MapCheck: New page: Map Check
+[2022.02.13-15.49.15:565][298]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.15:573][298]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.15:575][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.02.13-15.49.15:575][298]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.13-15.49.15:576][298]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.15:576][298]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.15:581][298]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.15:581][298]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.13-15.49.15:591][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.49.15:602][298]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.15:602][298]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,095ms to complete.
+[2022.02.13-15.49.15:602][298]LogFileHelpers: Loading map 'MainMenu' took 0.039
+[2022.02.13-15.49.15:632][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-15.49.17:265][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.02.13-15.49.17:307][472]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level1.Level1
+[2022.02.13-15.49.17:308][472]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.49.17:308][472]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.17:308][472]LoadErrors: New page: Loading map: Level1.umap
+[2022.02.13-15.49.17:309][472]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.17:309][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.17:309][472]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.49.17:309][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.49.17:310][472]MapCheck: New page: Map Check
+[2022.02.13-15.49.17:310][472]LightingResults: New page: Lighting Build
+[2022.02.13-15.49.17:316][472]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.49.17:317][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.13-15.49.17:317][472]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2022.02.13-15.49.17:318][472]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.49.17:318][472]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.49.17:323][472]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.49.17:323][472]LogAIModule: Creating AISystem for world Level1
+[2022.02.13-15.49.17:332][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.02.13-15.49.17:343][472]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.49.17:343][472]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,096ms to complete.
+[2022.02.13-15.49.17:343][472]LogFileHelpers: Loading map 'Level1' took 0.036
+[2022.02.13-15.49.17:374][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.02.13-15.50.20:843][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.02.13-15.50.20:885][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.50.20:885][ 75]Cmd: MAP LOAD FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.13-15.50.20:885][ 75]LightingResults: New page: Lighting Build
+[2022.02.13-15.50.20:885][ 75]LoadErrors: New page: Loading map: TestLevel.umap
+[2022.02.13-15.50.20:887][ 75]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.50.20:887][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.50.20:887][ 75]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-15.50.20:887][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-15.50.20:887][ 75]MapCheck: New page: Map Check
+[2022.02.13-15.50.20:887][ 75]LightingResults: New page: Lighting Build
+[2022.02.13-15.50.20:893][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-15.50.20:895][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.02.13-15.50.20:895][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2022.02.13-15.50.20:896][ 75]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Enviromment) is flushing async loading
+[2022.02.13-15.50.20:896][ 75]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.02.13-15.50.20:901][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.13-15.50.20:901][ 75]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.13-15.50.20:910][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-15.50.20:922][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.13-15.50.20:922][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.02.13-15.50.20:922][ 75]LogFileHelpers: Loading map 'TestLevel' took 0.037
+[2022.02.13-15.50.20:955][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.50.34:516][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.50.34:523][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.02.13-15.50.34:533][566]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment4FC0C3F04D03BA1700189B9E0039F937.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.50.34:586][566]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-15.50.34:586][566]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.50.37:012][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-15.50.37:978][829]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.50.38:023][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.50.38:029][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.02.13-15.50.38:034][829]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment40809877470DAD0539C0ECA718DE943D.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-15.50.38:035][829]LogFileHelpers: Saving map 'Enviromment' took 0.012
+[2022.02.13-15.50.38:035][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestLevel" FILE="G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-15.50.38:042][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-15.50.38:044][829]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/TestLevel9D410E9346B2E3396E02C8A790E98C1C.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/TestLevel.umap'
+[2022.02.13-15.50.38:059][829]LogFileHelpers: Saving map 'TestLevel' took 0.025
+[2022.02.13-15.50.38:067][829]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-15.50.38:067][829]LogContentValidation: Display: Validating World /Game/Maps/TestLevel.TestLevel
+[2022.02.13-15.50.38:067][829]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-15.53.42:289][252]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.13-15.57.26:441][252]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.13-15.57.26:449][252]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.13-15.57.26:460][252]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.13-15.57.38:079][646]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Player
+[2022.02.13-15.57.38:083][646]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.13-15.57.41:268][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.13-15.57.42:509][ 17]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-15.57.42:545][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.13-15.57.42:554][ 17]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_PlayerB3862CAB4835A5BAC93B3A9A81C4D376.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.13-15.57.42:565][ 17]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.13-15.57.42:565][ 17]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.13-15.57.46:994][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.13-15.57.47:751][533]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.02.13-15.57.48:925][534]LogRenderer: Reallocating scene render targets to support 1700x1252 Format 10 NumSamples 1 (Frame:1).
+[2022.02.13-15.59.46:200][259]LogSlate: Window 'Tutorials' being destroyed
+[2022.02.13-15.59.46:206][259]LogSlate: Window 'Tutorials' being destroyed
+[2022.02.13-16.05.27:817][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
