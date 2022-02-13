@@ -1758,3 +1758,1198 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.13-14.13.05:562][327]LogFileHelpers: Saving map 'Enviromment' took 0.024
 [2022.02.13-14.13.05:579][327]AssetCheck: New page: Asset Save: Enviromment
 [2022.02.13-14.13.05:579][327]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-14.15.24:663][799]LogActorFactory: Actor Factory created Plane
+[2022.02.13-14.15.25:505][880]LogActorFactory: Actor Factory created Plane
+[2022.02.13-14.15.43:187][566]LogEditorViewport: Clicking Background
+[2022.02.13-14.15.46:238][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.13-14.15.54:747][837]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NE_SpaceRocks_System)
+[2022.02.13-14.16.02:986][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.16.09:383][484]LogEditorViewport: Clicking on Actor (LMB): NiagaraActor (NE_SpaceRocks_System)
+[2022.02.13-14.17.04:497][ 81]LogEditorViewport: Clicking Background
+[2022.02.13-14.17.27:420][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.17.30:615][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.02.13-14.17.33:300][ 18]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-14.17.33:336][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-14.17.33:341][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.02.13-14.17.33:345][ 18]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentBDE3933D4B9E6076CA4742ADAC2262E2.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-14.17.33:357][ 18]LogFileHelpers: Saving map 'Enviromment' took 0.021
+[2022.02.13-14.17.33:376][ 18]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-14.17.33:377][ 18]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-14.17.57:749][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.18.36:942][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.18.39:377][ 93]LogEditorViewport: Clicking Background
+[2022.02.13-14.18.40:190][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.18.46:815][973]LogEditorViewport: Clicking Background
+[2022.02.13-14.18.47:647][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.02.13-14.22.30:970][448]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.13-14.22.30:992][448]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.13-14.22.40:082][534]LogContentBrowser: Attempting asset rename: NewFolder -> FloorGrid
+[2022.02.13-14.22.40:082][534]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.13-14.22.48:380][165]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\GameCraft\Assets\images\grid.png)
+[2022.02.13-14.22.48:382][165]LogTexture: Display: Building textures: grid (OODLE_AutoDXT, 64X64)
+[2022.02.13-14.24.21:870][  7]LogContentBrowser: Deferred new asset file creation: grid_Mat
+[2022.02.13-14.24.21:881][  7]LogContentBrowser: Creating deferred item: grid_Mat
+[2022.02.13-14.24.42:509][459]LogContentBrowser: Attempting asset rename: grid_Mat -> M_FloorGrid
+[2022.02.13-14.24.42:511][459]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3B96CF80D0E3602DFEBE7874E20E7E752DE50F88), compiling. 
+[2022.02.13-14.24.42:514][459]LogContentBrowser: End creating deferred item grid_Mat
+[2022.02.13-14.24.42:530][461]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.24.42:534][461]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.24.42:534][461]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.24.42:534][461]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.24.42:572][461]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.02.13-14.24.42:589][462]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.02.13-14.24.43:447][535]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.24.43:609][545]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.13-14.24.43:609][545]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.24.44:910][638]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.24.44:912][638]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: D7FBA3E063D8850E7598803E8BA244859DFDA06F), compiling. 
+[2022.02.13-14.24.45:126][638]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 829925372665894B0A751DB2653762511DBF172F), compiling. 
+[2022.02.13-14.24.45:128][638]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C9C294708E3D0CBA06A304E975749E3E46C1B80), compiling. 
+[2022.02.13-14.24.45:164][638]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.24.45:164][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.24.45:164][638]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.24.45:291][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.24.45:306][642]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.24.45:317][643]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.24.45:317][643]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.24.45:317][643]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.26.23:321][294]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 0F6D219A2125FCD28B264CB33C7CBC826367551D), compiling. 
+[2022.02.13-14.26.56:295][222]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 08CAC38814630DC80DA22923B1053699AE688D4A), compiling. 
+[2022.02.13-14.26.56:297][222]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1148F157187400D6081EBB0A837D1548D8850047), compiling. 
+[2022.02.13-14.27.05:129][264]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: E711A455C8096B16977388D2544B566ABA9772CD), compiling. 
+[2022.02.13-14.27.05:132][264]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.27.05:132][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.05:132][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.05:179][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.14:892][409]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 89E1ADBFF04EBF80132EA915735CE37C60A0871B), compiling. 
+[2022.02.13-14.27.14:897][409]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.27.14:897][409]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.14:897][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.14:918][411]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.27.14:919][411]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.14:919][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.14:942][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.17:685][727]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionScalarParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 324B0C8EE835B2301774829A6958636B383A53CD), compiling. 
+[2022.02.13-14.27.17:698][729]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.27.17:707][730]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.27.17:707][730]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.27.17:707][730]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.27.46:740][154]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: D373BC806B6CBEE51FB9B2E194D4E41827A014BF), compiling. 
+[2022.02.13-14.27.46:743][154]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 8F0A94015CE7889148D755666BE54D89246342B5), compiling. 
+[2022.02.13-14.27.46:746][154]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.27.46:746][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.46:746][154]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.46:755][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.27.46:755][155]LogShaderCompilers: Display: Total job queries 90, among them cache hits 66 (73.33%)
+[2022.02.13-14.27.46:755][155]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 20 distinct outputs (83.33%)
+[2022.02.13-14.27.46:755][155]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.02.13-14.27.46:755][155]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.27.46:767][156]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.27.46:767][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.46:767][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.27.46:784][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.28.00:132][718]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: BFC4468B6CB0AA68B09BD861DB347CA1F62AB0F9), compiling. 
+[2022.02.13-14.28.00:137][718]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_FloorGrid (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.13-14.28.00:137][718]LogMaterial: Display: 	(Node TextureSample) Coercion failed: 	MaterialFloat3 Local1 = (GetWorldPosition(Parameters) / Material.ScalarExpressions[0].y);
+: float3 -> float2
+[2022.02.13-14.28.00:138][718]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BE5C07CAF56C1050DF0F41EE2109A6BE3D1ACD65), compiling. 
+[2022.02.13-14.28.00:142][718]MaterialEditorStats: Error: [SM5] (Node TextureSample) Coercion failed: 	MaterialFloat3 Local1 = (GetWorldPosition(Parameters) / Material.ScalarExpressions[0].y);
+: float3 -> float2
+[2022.02.13-14.28.00:169][718]LogSlate: Took 0.008832 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.13-14.29.01:818][ 84]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 12CB906D3CAE0F800A924DB0488AA777C483930F), compiling. 
+[2022.02.13-14.29.01:820][ 84]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 53F86B9969EF47AAC7DC2B780BA845C38C4C767B), compiling. 
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.01:892][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.13-14.29.17:433][926]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1C3B49DD108689091A64DCDF5A2A0A857E5A3C16), compiling. 
+[2022.02.13-14.29.17:436][926]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 74287F21700221B304F01556C3738BBDDA2C1364), compiling. 
+[2022.02.13-14.29.19:715][183]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: F9B75EF4C77951A942D29841A2E8E4F709668B14), compiling. 
+[2022.02.13-14.29.19:717][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 01EB7B55272D4298C56400A5601DE15E9C9CF768), compiling. 
+[2022.02.13-14.29.19:721][183]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.29.19:721][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.19:726][184]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.29.19:727][184]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.29.19:727][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.29.19:727][184]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.29.19:735][185]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.02.13-14.29.19:741][185]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.29.19:787][190]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.29.20:783][279]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.29.20:783][279]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.21:823][388]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.02.13-14.29.21:823][388]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.13-14.29.21:823][388]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.13-14.29.21:823][388]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.29.21:823][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.55:872][430]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1E0090D9C52361898B094E6E34F33FDA483AB19E), compiling. 
+[2022.02.13-14.29.55:874][430]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.29.55:874][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.55:895][432]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.29.55:895][432]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.29.55:910][433]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.02.13-14.29.55:910][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.13-14.29.55:910][433]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.13-14.29.55:910][433]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.29.55:910][433]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.30.29:646][391]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.30.30:006][391]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: A80A531FFF4E5E7AC2B91555F266AEAF36189C35), compiling. 
+[2022.02.13-14.30.30:044][391]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: FC9AB29FB07EB8159B0921590B261652175EB3AB), compiling. 
+[2022.02.13-14.30.30:082][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.02.13-14.30.30:091][391]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.30.30:605][391]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.13-14.30.30:605][391]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.30.30:621][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.02.13-14.30.30:683][391]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.30.30:685][391]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.30.30:705][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.30.30:714][391]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid2BA743474496D9A52AEED0947945A80F.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.30.30:749][391]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.30.30:749][391]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.30.30:754][391]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.13-14.30.30:754][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.30.31:594][467]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.30.31:594][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.30.31:636][471]MaterialEditorStats: Base pass shader: 121 instructions
+[2022.02.13-14.30.31:636][471]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2022.02.13-14.30.31:636][471]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.13-14.30.31:636][471]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.30.31:636][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.31.11:894][607]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 84780E75365D136D92AD43132C6FE12B2175A21C), compiling. 
+[2022.02.13-14.31.11:913][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.31.11:913][608]LogShaderCompilers: Display: Total job queries 177, among them cache hits 135 (76.27%)
+[2022.02.13-14.31.11:913][608]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 32 distinct outputs (76.19%)
+[2022.02.13-14.31.11:913][608]LogShaderCompilers: Display: RAM used: 0.19 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.02.13-14.31.11:913][608]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.31.14:468][905]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 0932FCA1F8A8664D4D1911A24F5375B147AF9928), compiling. 
+[2022.02.13-14.31.14:474][905]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: D18466D12552EF62B5C1784E89C3991C8F7CCF40), compiling. 
+[2022.02.13-14.31.14:479][905]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1BEF626CCDF789432B232EA6B291D1B97BB3D136), compiling. 
+[2022.02.13-14.31.14:486][905]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.31.14:486][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.31.14:530][907]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.14:532][907]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.31.15:432][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.31.15:432][985]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.15:448][986]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.13-14.31.15:448][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.31.15:550][993]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.31.15:550][993]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.15:565][994]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.31.15:566][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.31.16:022][ 26]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.31.16:023][ 26]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.17:067][ 88]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.31.17:067][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.31.17:178][ 97]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.31.17:598][ 97]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: BE3D3EA821D7219EF7464D165568BC1BB829867C), compiling. 
+[2022.02.13-14.31.17:631][ 97]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 49E689A4816D95C40653A8328F3D6881FDC34590), compiling. 
+[2022.02.13-14.31.17:640][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.31.18:082][ 97]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.31.18:091][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.13-14.31.18:965][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.31.18:990][ 97]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGridE6E1BFA843A8260EB01E0C91B7859905.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.31.19:008][ 97]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.31.19:008][ 97]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.31.19:009][ 97]MaterialEditorStats: Base pass shader: 75 instructions
+[2022.02.13-14.31.19:010][ 97]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2022.02.13-14.31.19:010][ 97]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.02.13-14.31.19:010][ 97]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.31.19:010][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.10:060][862]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-14.32.10:069][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-14.32.10:069][862]PIE: New page: PIE session: Enviromment (2022. febr. 13. 16:32:10)
+[2022.02.13-14.32.10:069][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-14.32.10:071][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001614s)
+[2022.02.13-14.32.10:072][862]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-14.32.10:072][862]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2022.02.13-14.32.10:072][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Enviromment.Enviromment to /Game/Maps/UEDPIE_0_Enviromment.Enviromment (0.002877s)
+[2022.02.13-14.32.10:078][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.13-14.32.10:080][862]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-14.32.10:080][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-14.32.10:080][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-14.32.10:080][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-14.32.10:080][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-14.32.10:080][862]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-14.32.10:084][862]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-14.32.10:084][862]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-14.32.10:096][862]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-14.32.10:097][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-14.32.10:097][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-14.32.10:097][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-14.32.10:097][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-14.32.10:097][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-14.32.10:097][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-14.32.10:099][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-14.32.10:099][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-14.32.10:099][862]LogInit: FAudioDevice initialized.
+[2022.02.13-14.32.10:099][862]LogAudio: Display: Audio Device (ID: 4) registered with world 'Enviromment'.
+[2022.02.13-14.32.10:109][862]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-14.32.10:110][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Enviromment.Enviromment up for play (max tick rate 0) at 2022.02.13-15.32.10
+[2022.02.13-14.32.10:110][862]LogWorld: Bringing up level for play took: 0.000687
+[2022.02.13-14.32.10:111][862]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.02.13-14.32.10:113][862]PIE: Server logged in
+[2022.02.13-14.32.10:114][862]PIE: Play in editor total start time 0,046 seconds.
+[2022.02.13-14.32.20:682][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-14.32.20:682][119]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-14.32.20:683][119]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-14.32.20:683][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.32.20:693][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-14.32.20:711][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.32.20:716][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-14.32.20:716][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-14.32.20:717][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-14.32.20:720][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.02.13-14.32.20:767][120]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.02.13-14.32.56:568][220]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1361FB98D812755B434FDD9F6644B763B6E29665), compiling. 
+[2022.02.13-14.32.56:577][220]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.32.56:577][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.56:636][223]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.32.56:636][223]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.56:647][224]MaterialEditorStats: Base pass shader: 75 instructions
+[2022.02.13-14.32.56:647][224]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2022.02.13-14.32.56:647][224]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.02.13-14.32.56:647][224]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.32.56:647][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.58:574][444]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 06D45D358EE7F7F73DA960EADBE0E8199A8520DF), compiling. 
+[2022.02.13-14.32.58:578][444]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: B8E1E7B35EDA9763FAE0AD88D12F9074E1F483F5), compiling. 
+[2022.02.13-14.32.58:581][444]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 51E532F840E8A7D0EEFC4D3F9DA89BCC22010D15), compiling. 
+[2022.02.13-14.32.58:587][444]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.32.58:587][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.58:608][445]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.32.58:618][446]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.32.59:550][529]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.13-14.32.59:550][529]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.32.59:564][530]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.32.59:564][530]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.32.59:620][534]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.32.59:620][534]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.33.00:145][574]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.13-14.33.00:145][574]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.33.01:002][643]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.33.01:002][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.01:923][728]MaterialEditorStats: Base pass shader: 77 instructions
+[2022.02.13-14.33.01:923][728]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2022.02.13-14.33.01:923][728]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.33.01:923][728]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.33.01:923][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.05:084][ 89]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.33.05:435][ 89]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 4C49CD034808BDFF305D4F5CD3EE332EED4EC067), compiling. 
+[2022.02.13-14.33.05:474][ 89]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: BFF8E17D82AD29D0D301FC07D42EF2B00C5A092B), compiling. 
+[2022.02.13-14.33.05:482][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.33.05:921][ 89]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.33.05:932][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.13-14.33.06:772][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.33.06:779][ 89]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGridB5551A4F4DFC3D924AD838AFDB2A998A.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.33.06:825][ 89]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.33.06:825][ 89]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.33.52:693][155]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: C93E26836AC7BA787D623042A9555BD5825BC848), compiling. 
+[2022.02.13-14.33.52:702][155]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.33.52:703][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.52:766][158]MaterialEditorStats: Base pass shader: 77 instructions
+[2022.02.13-14.33.52:766][158]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2022.02.13-14.33.52:766][158]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.33.52:766][158]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.33.52:766][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.54:130][320]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 787693772203D17E6C2F4E26957D31F968A04196), compiling. 
+[2022.02.13-14.33.54:134][320]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 0299D7F31188F959DFF7234CE087DBD69DE8481A), compiling. 
+[2022.02.13-14.33.54:138][320]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2580F7EEEE87EE79B1FB65CA3CA871E283DDFE4D), compiling. 
+[2022.02.13-14.33.54:144][320]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.33.54:144][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.54:181][322]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.33.54:181][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.33.54:197][323]MaterialEditorStats: Base pass shader: 75 instructions
+[2022.02.13-14.33.54:197][323]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2022.02.13-14.33.54:198][323]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.02.13-14.33.54:198][323]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.33.54:198][323]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.38:677][494]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2E2255DB104BF0D28E08F458515A65F4786B1C5F), compiling. 
+[2022.02.13-14.34.38:686][494]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.34.38:686][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.38:734][496]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.34.38:734][496]LogShaderCompilers: Display: Total job queries 440, among them cache hits 334 (75.91%)
+[2022.02.13-14.34.38:734][496]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 64 distinct outputs (60.38%)
+[2022.02.13-14.34.38:734][496]LogShaderCompilers: Display: RAM used: 0.36 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.02.13-14.34.38:734][496]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.34.38:751][497]MaterialEditorStats: Base pass shader: 75 instructions
+[2022.02.13-14.34.38:752][497]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2022.02.13-14.34.38:752][497]MaterialEditorStats: Base pass vertex shader: 158 instructions
+[2022.02.13-14.34.38:752][497]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.34.38:752][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.40:991][753]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 33CAEFC498BA15406DE3B2E4DFBD677267EE8E49), compiling. 
+[2022.02.13-14.34.40:996][753]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 6884F1BAF0F397821B606454A8973728DDC20ECE), compiling. 
+[2022.02.13-14.34.40:999][753]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 108497D423EF9705656928E323A2CF5CE7BAF660), compiling. 
+[2022.02.13-14.34.41:005][753]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.34.41:005][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.41:051][755]MaterialEditorStats: Base pass shader: 77 instructions
+[2022.02.13-14.34.41:051][755]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2022.02.13-14.34.41:051][755]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.34.41:051][755]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.34.41:051][755]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.44:824][175]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 8D82466A3906A3FCA640CD476E8A9413AF6A7F58), compiling. 
+[2022.02.13-14.34.44:834][175]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.34.44:834][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.44:903][178]MaterialEditorStats: Base pass shader: 77 instructions
+[2022.02.13-14.34.44:903][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2022.02.13-14.34.44:903][178]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.34.44:903][178]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.34.44:903][178]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.56:109][479]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 94F1777E185226D9096899CB7E4710D888DCD9A6), compiling. 
+[2022.02.13-14.34.56:120][479]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.34.56:120][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.56:167][482]MaterialEditorStats: Base pass shader: 77 instructions
+[2022.02.13-14.34.56:167][482]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 104 instructions
+[2022.02.13-14.34.56:167][482]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.34.56:167][482]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.34.56:167][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.58:235][702]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 4CB4EB2463C659A7A6946D4B32BFD6D67F64E147), compiling. 
+[2022.02.13-14.34.58:238][702]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: C590B524C12A57AEC305C7AD02A204CC01D6D6F4), compiling. 
+[2022.02.13-14.34.58:242][702]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3CAE2B7B6563EF2E7D14DA7FB271D32C22A5E523), compiling. 
+[2022.02.13-14.34.58:247][702]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.34.58:247][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.58:266][703]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.34.58:277][704]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.34.59:181][783]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.34.59:181][783]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.34.59:200][784]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.34.59:200][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.34.59:839][830]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.34.59:839][830]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.01:333][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.35.01:333][937]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.01:354][938]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.35.01:354][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.06:283][305]MaterialEditorStats: Base pass shader: 313 instructions
+[2022.02.13-14.35.06:283][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 400 instructions
+[2022.02.13-14.35.06:283][305]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.35.06:283][305]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.35.06:283][305]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.06:468][326]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.35.06:824][326]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 630881FE63BBEEAF3FF5276BD1577BF2295D0E07), compiling. 
+[2022.02.13-14.35.06:858][326]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: E759D3CFA5BEFC0A5A5359E06B4FEFEC27D740D6), compiling. 
+[2022.02.13-14.35.06:867][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.35.07:331][326]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.07:341][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.13-14.35.09:353][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.35.09:360][326]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid545C5289457374E215E3F8B8F3746C2A.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.35.09:386][326]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.35.09:386][326]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.35.21:318][634]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: DF17C2AD503054465D57F65419457AE321EF8723), compiling. 
+[2022.02.13-14.35.21:320][634]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DDBF9843FF953ABAF3EB29E31DEC88D61445B2EC), compiling. 
+[2022.02.13-14.35.21:325][634]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.35.21:325][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.21:349][635]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.21:361][636]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.21:362][636]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.35.22:383][717]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.35.22:383][717]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.22:398][718]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.35.22:398][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.22:995][762]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.35.22:995][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.24:520][871]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.35.24:520][871]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.24:522][871]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.35.24:522][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.25:325][917]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.35.25:824][917]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 4E85EA9AB7A6797554213BB6214516565514CA8D), compiling. 
+[2022.02.13-14.35.25:871][917]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 051B1703E06E1AE7679C1FB15510DD94994AC1B3), compiling. 
+[2022.02.13-14.35.25:883][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.02.13-14.35.27:746][917]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.27:758][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.13-14.35.28:224][917]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.02.13-14.35.28:224][917]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.35.30:266][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.35.30:272][917]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid0172D72440D20ACB68EC4FBEB2A15FDF.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.35.30:286][917]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.35.30:286][917]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.35.30:288][917]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.35.30:288][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.35.30:288][917]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.35.30:288][917]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.35.30:288][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.35.36:909][624]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.35.36:938][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.35.36:940][624]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid5FBE3F5E4162A042D70EDDB30EDB55BE.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.35.36:950][624]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.35.36:950][624]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.35.42:531][181]LogContentBrowser: Deferred new asset file creation: M_FloorGrid_Inst
+[2022.02.13-14.35.42:553][181]LogContentBrowser: Creating deferred item: M_FloorGrid_Inst
+[2022.02.13-14.35.53:518][457]LogContentBrowser: Attempting asset rename: M_FloorGrid_Inst -> MI_FloorGrid_Inst
+[2022.02.13-14.35.53:519][457]LogContentBrowser: End creating deferred item M_FloorGrid_Inst
+[2022.02.13-14.35.58:103][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.02.13-14.35.59:229][941]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-14.35.59:258][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-14.35.59:263][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.02.13-14.35.59:267][941]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/Enviromment218CA2054E8EEDDBCC699FA604FBEC60.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-14.35.59:281][941]LogFileHelpers: Saving map 'Enviromment' took 0.023
+[2022.02.13-14.35.59:283][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/grid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/grid.uasset" SILENT=true
+[2022.02.13-14.35.59:285][941]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/grid77C972D64AB44B7BD7AFA89C2F40822B.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/grid.uasset'
+[2022.02.13-14.35.59:302][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset" SILENT=true
+[2022.02.13-14.35.59:311][941]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid_Inst110526014DF99393682154BE012C1DD2.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset'
+[2022.02.13-14.35.59:344][941]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-14.35.59:344][941]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-14.35.59:345][941]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.MI_FloorGrid_Inst
+[2022.02.13-14.35.59:345][941]LogContentValidation: Display: Validating Texture2D /Game/Assets/Enviromments/FloorGrid/grid.grid
+[2022.02.13-14.36.18:823][195]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.MI_FloorGrid_Inst
+[2022.02.13-14.37.08:916][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.02.13-14.37.11:167][561]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-14.37.11:221][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset" SILENT=true
+[2022.02.13-14.37.11:226][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.13-14.37.11:233][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.02.13-14.37.11:239][561]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid_Inst577C1B7C4895A57C19A62785A5D15183.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset'
+[2022.02.13-14.37.11:260][561]AssetCheck: New page: Asset Save: MI_FloorGrid_Inst
+[2022.02.13-14.37.11:260][561]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.MI_FloorGrid_Inst
+[2022.02.13-14.37.16:967][ 44]LogContentBrowser: Attempting asset rename: MI_FloorGrid_Inst -> MI_FloorGrid
+[2022.02.13-14.37.17:056][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.37.17:061][ 44]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid9D7FFBCC4D98247D96DB759553C9AC19.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset'
+[2022.02.13-14.37.17:062][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset" SILENT=true
+[2022.02.13-14.37.17:063][ 44]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid_InstD16079B64E2FCA22F15926967FF0BEF8.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.uasset'
+[2022.02.13-14.37.17:118][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.13-14.37.17:118][ 44]LogContentValidation: Display: Validating ObjectRedirector /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid_Inst.MI_FloorGrid_Inst
+[2022.02.13-14.37.17:118][ 44]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid.MI_FloorGrid
+[2022.02.13-14.37.19:148][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.02.13-14.39.03:204][355]LogSlate: Window 'MI_FloorGrid' being destroyed
+[2022.02.13-14.39.03:208][355]LogSlate: Window 'MI_FloorGrid' being destroyed
+[2022.02.13-14.39.03:222][355]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-14.39.03:222][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.39.25:472][760]LogEditorViewport: Clicking Background
+[2022.02.13-14.39.45:212][867]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.13-14.39.45:218][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.13-14.39.45:218][867]PIE: New page: PIE session: Enviromment (2022. febr. 13. 16:39:45)
+[2022.02.13-14.39.45:218][867]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-14.39.45:220][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001428s)
+[2022.02.13-14.39.45:221][867]LogAIModule: Creating AISystem for world Enviromment
+[2022.02.13-14.39.45:221][867]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2022.02.13-14.39.45:221][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Enviromment.Enviromment to /Game/Maps/UEDPIE_0_Enviromment.Enviromment (0.002624s)
+[2022.02.13-14.39.45:229][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.02.13-14.39.45:231][867]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.13-14.39.45:231][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.13-14.39.45:231][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.13-14.39.45:232][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.13-14.39.45:232][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.13-14.39.45:232][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.13-14.39.45:232][867]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.13-14.39.45:235][867]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.13-14.39.45:235][867]LogAudioMixer: Display: 1: FrontRight
+[2022.02.13-14.39.45:244][867]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.13-14.39.45:244][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.13-14.39.45:244][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.13-14.39.45:244][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.13-14.39.45:245][867]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.13-14.39.45:245][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.13-14.39.45:245][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.13-14.39.45:246][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.13-14.39.45:246][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.13-14.39.45:246][867]LogInit: FAudioDevice initialized.
+[2022.02.13-14.39.45:246][867]LogAudio: Display: Audio Device (ID: 5) registered with world 'Enviromment'.
+[2022.02.13-14.39.45:254][867]LogLoad: Game class is 'GameModeBase'
+[2022.02.13-14.39.45:255][867]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Enviromment.Enviromment up for play (max tick rate 0) at 2022.02.13-15.39.45
+[2022.02.13-14.39.45:255][867]LogWorld: Bringing up level for play took: 0.000584
+[2022.02.13-14.39.45:255][867]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.02.13-14.39.45:258][867]PIE: Server logged in
+[2022.02.13-14.39.45:259][867]PIE: Play in editor total start time 0,041 seconds.
+[2022.02.13-14.39.57:192][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-14.39.57:192][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Enviromment
+[2022.02.13-14.39.57:192][288]LogWorld: UWorld::CleanupWorld for Enviromment, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-14.39.57:192][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.39.57:204][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.13-14.39.57:216][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.39.57:221][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.13-14.39.57:221][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-14.39.57:222][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.13-14.39.57:224][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.13-14.39.57:226][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.02.13-14.39.57:260][289]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.02.13-14.40.51:181][340]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 44523330D4DF6F4EC6A1AE9766E39CE5F01D908E), compiling. 
+[2022.02.13-14.40.51:183][340]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 78D1031D97DA1B1CE557696B419056275C6165EB), compiling. 
+[2022.02.13-14.40.51:185][340]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.40.51:185][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: Total job queries 693, among them cache hits 489 (70.56%)
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: Tracking 170 distinct input hashes that result in 91 distinct outputs (53.53%)
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2022.02.13-14.40.51:220][341]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.40.51:234][342]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.40.51:234][342]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.40.51:234][342]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.40.51:235][342]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.51:235][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.51:275][344]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.40.51:276][344]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.40.51:276][344]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.40.51:276][344]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.51:276][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.57:132][998]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 260A17CDACA463E8D961C1886684C54CB18A386D), compiling. 
+[2022.02.13-14.40.57:134][998]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 424CB370FF53551C32FEE865DFE314324FAC5B24), compiling. 
+[2022.02.13-14.40.57:137][998]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.40.57:137][998]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.57:185][  1]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.57:185][  1]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.57:203][  2]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.40.57:203][  2]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.40.57:203][  2]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.40.57:204][  2]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.57:204][  2]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.58:230][114]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 059E2146EB64C355CB7EBA3142F5930DA6C1BBBE), compiling. 
+[2022.02.13-14.40.58:232][114]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 97834E0F56727500450A9BD6BEDCF96E5E7D696F), compiling. 
+[2022.02.13-14.40.58:235][114]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.40.58:235][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.58:262][116]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.40.58:286][117]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.40.58:286][117]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.40.58:286][117]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.40.58:288][117]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.58:288][117]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.58:325][119]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.40.58:325][119]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.40.58:325][119]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.40.58:325][119]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.58:325][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.59:458][239]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 686CF2E80DC9A44528339B73DE43AB5E9944AE2F), compiling. 
+[2022.02.13-14.40.59:460][239]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 257A7BFDA91A6B42700546326F8B0041D78B0687), compiling. 
+[2022.02.13-14.40.59:463][239]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.13-14.40.59:470][239]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.40.59:470][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.59:519][242]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.59:519][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.40.59:538][243]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.40.59:538][243]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.40.59:538][243]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.40.59:538][243]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.40.59:538][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.06:071][972]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 951B4115221F99C34A91098EF45E8B6EDB28F44A), compiling. 
+[2022.02.13-14.41.06:074][972]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 55B17304D1B23DA96649FC34A08B13392A15BD2B), compiling. 
+[2022.02.13-14.41.06:075][972]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DB3FD57D1BE1C376E87A9F12885AEAFB009F274C), compiling. 
+[2022.02.13-14.41.06:083][972]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.41.06:083][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.06:136][974]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.06:136][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.06:156][975]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.41.06:156][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.41.06:156][975]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.41.06:156][975]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.06:156][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.09:139][318]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 0BFCA00AC9D1C24D33BC9B0746FE485623B2F494), compiling. 
+[2022.02.13-14.41.09:141][318]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C4DC2A31CE400BF657D328E741C0AE89E9018BFB), compiling. 
+[2022.02.13-14.41.09:149][318]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.41.09:149][318]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.09:191][320]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.09:191][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.09:213][321]MaterialEditorStats: Base pass shader: 316 instructions
+[2022.02.13-14.41.09:213][321]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 403 instructions
+[2022.02.13-14.41.09:214][321]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.41.09:214][321]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.09:214][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.10:721][491]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 7B756FC7EBDAA4488A33FE0A7A04D5A85278C591), compiling. 
+[2022.02.13-14.41.10:727][491]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.41.10:727][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.10:769][491]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.41.11:509][556]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.41.11:509][556]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.11:523][557]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.41.11:523][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.12:024][597]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.41.12:025][597]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.13:602][733]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.41.13:602][733]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.13:619][734]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.13:619][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.19:385][233]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.41.19:385][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.41.19:385][233]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.41.19:385][233]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.19:385][233]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.24:248][803]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 8315195062B8452CBECCE2213AFE41F45CD9094E), compiling. 
+[2022.02.13-14.41.24:250][803]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.41.24:250][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.24:296][806]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.24:296][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.24:315][807]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.41.24:315][807]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.41.24:315][807]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.41.24:315][807]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.24:315][807]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.31:652][658]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.41.32:004][658]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: F37BE884511A83A8B7A0996B14605CF53B66A2ED), compiling. 
+[2022.02.13-14.41.32:029][658]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 9D4AED0F8B2E055F58E2CCD15DE883EAB50FA14F), compiling. 
+[2022.02.13-14.41.32:127][658]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.41.32:129][658]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.32:150][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.02.13-14.41.32:539][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.13-14.41.34:654][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.41.34:662][658]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGridF8E25AEC4D5C13F7436C15B79E8C4D41.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.41.34:692][658]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.41.34:692][658]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.41.53:127][811]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: F7FDA10E56734AC1DA77C74E9B31341C6D066327), compiling. 
+[2022.02.13-14.41.53:129][811]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CF99198EEDB132341F9E4B8C5ABAC46E9CA27D79), compiling. 
+[2022.02.13-14.41.53:131][811]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5406FEFA39609DCFAAD8729EBEA185B0A4ABF76C), compiling. 
+[2022.02.13-14.41.53:140][811]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: D46B5B5BF4D0958EAB58BDECFF30A91602D8A977), compiling. 
+[2022.02.13-14.41.53:142][811]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F0B29A02F944F410C5693BB911302DFCE8C38DC), compiling. 
+[2022.02.13-14.41.53:152][811]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.41.53:152][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.53:192][812]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.41.53:215][813]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.41.54:689][930]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.41.54:690][930]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.41.54:703][931]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.41.54:703][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.41.55:495][992]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.41.55:495][992]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.41.56:285][ 52]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.41.56:285][ 52]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.56:917][100]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.41.56:917][100]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.57:210][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.41.57:210][123]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.41.57:231][124]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.41.57:232][124]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.42.01:415][454]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.42.01:415][454]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.42.01:415][454]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.42.01:415][454]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.42.01:415][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.42.02:360][557]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.42.02:705][557]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 69816A5F99C6BC8DCC1DBD75D09882417BEE7EC5), compiling. 
+[2022.02.13-14.42.02:737][557]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 6328A48A0BF3490FD410EBBB198A61B644E45FCD), compiling. 
+[2022.02.13-14.42.02:747][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.42.03:213][557]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.42.03:235][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.02.13-14.42.05:258][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.42.05:265][557]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid7797D800460B015AC4F781AD7302B3E1.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.42.05:290][557]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.42.05:290][557]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.42.08:462][887]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid.MI_FloorGrid
+[2022.02.13-14.42.58:312][634]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: A048350FF25B35B4886D2F31419C5735AC9B6DE2), compiling. 
+[2022.02.13-14.42.58:314][634]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F267DFCA91451892C9C3D8A32CE82EA29489504A), compiling. 
+[2022.02.13-14.42.58:316][634]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 9B420DA855B20E573379A9EC7FF7CD7466F464A3), compiling. 
+[2022.02.13-14.42.58:317][634]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 735EB0554330B1244B3485B68A51273338A6636C), compiling. 
+[2022.02.13-14.42.58:324][634]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.42.58:324][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.42.58:372][636]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.42.58:372][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.42.58:405][638]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.42.58:405][638]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.42.58:405][638]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.42.58:405][638]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.42.58:405][638]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.34:652][886]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3245C75EF26FF1D173F25CCD639C0E4B244F6855), compiling. 
+[2022.02.13-14.43.34:655][886]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.43.34:655][886]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.34:709][888]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.43.34:709][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.34:730][889]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.43.34:731][889]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.43.34:731][889]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.43.34:731][889]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.43.34:731][889]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.51:552][822]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: AC10E0A22F886A455659FDB212FE98E6686FB773), compiling. 
+[2022.02.13-14.43.51:559][822]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.43.51:559][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.51:590][823]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.43.51:590][823]LogShaderCompilers: Display: Total job queries 1079, among them cache hits 807 (74.79%)
+[2022.02.13-14.43.51:590][823]LogShaderCompilers: Display: Tracking 240 distinct input hashes that result in 126 distinct outputs (52.50%)
+[2022.02.13-14.43.51:590][823]LogShaderCompilers: Display: RAM used: 1.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.13%
+[2022.02.13-14.43.51:590][823]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.43.51:598][824]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.43.51:598][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.43.51:620][825]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.43.51:620][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.43.51:620][825]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.43.51:620][825]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.43.51:620][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.07:423][630]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 1CF539EAA9EAE708D5FDC30D741C66B3E9E2B8EA), compiling. 
+[2022.02.13-14.44.07:428][630]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.44.07:428][630]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.07:448][632]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.07:458][633]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.44.08:646][727]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.44.08:646][727]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.08:661][728]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.44.08:661][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.09:236][770]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.44.09:237][770]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.10:126][825]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.44.10:636][825]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.44.10:636][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.10:659][825]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: C054A15FCC9FB7D294EB71C9F1396857D36928E4), compiling. 
+[2022.02.13-14.44.10:713][825]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 800A7BE7DE17431617AD13D6A15E7FA762834DCC), compiling. 
+[2022.02.13-14.44.10:889][825]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.10:934][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.13-14.44.13:310][825]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.44.13:322][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.13-14.44.15:515][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.44.15:522][825]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid51F3C77F4F42171ABE152493E0EA870E.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.44.15:571][825]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.44.15:571][825]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.44.15:573][825]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.44.15:573][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.44.15:573][825]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.44.15:573][825]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.44.15:573][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.25:157][927]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 96228B503354E52A853E700FACB6ECC34ECA7231), compiling. 
+[2022.02.13-14.44.25:161][927]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: AAAAB1B42595C59819FFC0C4F6BE2194225E2EBB), compiling. 
+[2022.02.13-14.44.25:163][927]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.44.25:163][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.25:205][930]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.44.25:205][930]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.25:224][931]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.44.25:224][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.44.25:224][931]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.44.25:224][931]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.44.25:224][931]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.38:900][525]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2E94C36DEAC16C0EDD0CDE060AF1997439D15B45), compiling. 
+[2022.02.13-14.44.38:904][525]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 93B510B0BC38536F2451B6366923D3B193A262B7), compiling. 
+[2022.02.13-14.44.38:907][525]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.44.38:907][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.38:951][528]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.44.38:951][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.44.38:970][529]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.44.38:970][529]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.44.38:970][529]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.44.38:970][529]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.44.38:970][529]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.37:486][311]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.45.37:872][311]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 9CAA354745D32B1F52476568EDD1E1CA77D1FABC), compiling. 
+[2022.02.13-14.45.37:908][311]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 881353B84301CE30286F99BFA16CD2E8B961222F), compiling. 
+[2022.02.13-14.45.38:010][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.02.13-14.45.38:180][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.13-14.45.38:243][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.45.38:251][311]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGridF1DD71C3413C9AC708096CA22FE3DDCC.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.45.38:278][311]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.45.38:278][311]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.45.43:638][894]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 63A82F741EFD8C4CF69091353FFD0A9AB765B384), compiling. 
+[2022.02.13-14.45.43:640][894]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9259E4EA0CD4969011BC26B54B3A2140D95B20FD), compiling. 
+[2022.02.13-14.45.43:644][894]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.45.43:644][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.43:694][897]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.43:694][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.43:716][898]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.45.43:716][898]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.45.43:716][898]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.45.43:716][898]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.43:716][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.45:405][ 79]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: AE8CC24289CEE6BAEC873A58AC8C1B14D1DBF577), compiling. 
+[2022.02.13-14.45.45:408][ 79]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70A4B4523F23DCC9B2C8A19BE2CB30607270C6DD), compiling. 
+[2022.02.13-14.45.45:411][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.45.45:411][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.45:472][ 82]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.45:472][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.45:533][ 84]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.45.45:533][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.45.45:533][ 84]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.45.45:533][ 84]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.45:533][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.46:909][231]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: E3068897FC48E06B9557AC8315BFCBE486AA2272), compiling. 
+[2022.02.13-14.45.46:911][231]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 94F0BBFD87FC4DB7D99DA9063B1DD8CEFDED530D), compiling. 
+[2022.02.13-14.45.46:915][231]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.45.46:915][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.46:969][234]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.46:969][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.46:988][235]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.45.46:988][235]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.45.46:988][235]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.45.46:988][235]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.46:988][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.49:292][487]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 584532B7847E5FAABA1C4CCBDC71326FE243BB34), compiling. 
+[2022.02.13-14.45.49:294][487]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE7CDE737B78832515CC56E94CDFC38BAAD46839), compiling. 
+[2022.02.13-14.45.49:297][487]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.13-14.45.49:304][487]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.45.49:304][487]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.49:350][490]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.49:350][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.49:379][492]MaterialEditorStats: Base pass shader: 317 instructions
+[2022.02.13-14.45.49:380][492]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 404 instructions
+[2022.02.13-14.45.49:380][492]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.45.49:380][492]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.45.49:380][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.45.53:004][887]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.45.53:353][887]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 154A1D4DD6A0EB6FE125DB1BB16A8B307F25436E), compiling. 
+[2022.02.13-14.45.53:391][887]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 4529B329A59617F91F0A0ED9B90B18B7C10F42BD), compiling. 
+[2022.02.13-14.45.53:488][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.13-14.45.53:645][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.02.13-14.45.53:707][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.45.53:714][887]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid4468FC9C4627D506088E26868D5F5EC2.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.45.53:740][887]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.45.53:741][887]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.46.39:321][874]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: BB359D1CCCFA10630328A0D28F7032A085B00F1D), compiling. 
+[2022.02.13-14.46.39:326][874]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.46.39:326][874]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.46.39:345][876]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.39:357][877]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.46.40:462][959]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.46.40:462][959]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.40:480][960]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.46.40:480][960]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.46.41:064][  4]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.46.41:064][  4]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.42:841][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.46.42:842][131]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.42:861][132]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.46.42:861][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.46.45:415][292]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.46.45:895][292]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: EAC47109221281AD750A1999C408CEDBA54F8616), compiling. 
+[2022.02.13-14.46.45:935][292]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: CEAAEC91AE849F6A38BF3696BA0ADBA128B4806C), compiling. 
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.02.13-14.46.46:070][292]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:070][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.02.13-14.46.46:818][292]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.46.46:843][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.13-14.46.49:004][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.46.49:012][292]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid697963F14423FC05818708BDF07B5239.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.46.49:042][292]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.46.49:043][292]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.46.49:044][292]MaterialEditorStats: Base pass shader: 319 instructions
+[2022.02.13-14.46.49:044][292]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 406 instructions
+[2022.02.13-14.46.49:044][292]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.46.49:044][292]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.46.49:044][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.00:102][509]LogEditorViewport: Clicking Background
+[2022.02.13-14.47.22:370][ 77]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 681E66EE2573D474EA178BAC71DC2B5202E03189), compiling. 
+[2022.02.13-14.47.22:373][ 77]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 8FE6CE8BCFBD724B08B82BDC7FFA8ED6903DE828), compiling. 
+[2022.02.13-14.47.22:383][ 77]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.47.22:383][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.22:425][ 78]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.13-14.47.22:425][ 78]LogShaderCompilers: Display: Total job queries 1519, among them cache hits 1123 (73.93%)
+[2022.02.13-14.47.22:425][ 78]LogShaderCompilers: Display: Tracking 304 distinct input hashes that result in 158 distinct outputs (51.97%)
+[2022.02.13-14.47.22:425][ 78]LogShaderCompilers: Display: RAM used: 1.42 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.02.13-14.47.22:425][ 78]LogShaderCompilers: Display: ================================================
+[2022.02.13-14.47.22:436][ 79]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.22:436][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.22:471][ 81]MaterialEditorStats: Base pass shader: 319 instructions
+[2022.02.13-14.47.22:471][ 81]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 406 instructions
+[2022.02.13-14.47.22:471][ 81]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.47.22:471][ 81]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.22:471][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.25:906][466]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 78F8F6BE0600A17356C38B8E657D302F08E3D4DD), compiling. 
+[2022.02.13-14.47.25:911][466]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.47.25:911][466]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.25:931][468]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.47.25:932][468]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.47.26:972][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.47.26:972][551]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.47.26:990][552]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.47.26:990][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.27:589][592]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.47.27:589][592]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.47.29:408][706]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.47.29:408][706]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.47.29:410][706]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.29:410][706]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.34:408][100]MaterialEditorStats: Base pass shader: 319 instructions
+[2022.02.13-14.47.34:408][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 406 instructions
+[2022.02.13-14.47.34:408][100]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.47.34:408][100]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.34:408][100]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.40:395][790]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 95369B99CD0C3CE990BB1635F7AEE8F93C0B81ED), compiling. 
+[2022.02.13-14.47.40:398][790]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.47.40:398][790]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.40:455][792]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.40:455][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.47.40:476][793]MaterialEditorStats: Base pass shader: 319 instructions
+[2022.02.13-14.47.40:476][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 406 instructions
+[2022.02.13-14.47.40:476][793]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.47.40:476][793]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.47.40:476][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.48.07:341][865]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: A94E58B57DBA675FDC33D8D9909041CCB012779F), compiling. 
+[2022.02.13-14.48.07:348][865]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.13-14.48.07:348][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.02.13-14.48.07:375][866]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.02.13-14.48.07:376][866]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.02.13-14.48.07:376][866]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.02.13-14.48.07:376][866]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.07:376][866]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.48.08:495][944]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.48.08:495][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.08:512][945]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.13-14.48.08:513][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.48.09:051][980]LogMaterialEditor: Saving and Compiling material M_FloorGrid
+[2022.02.13-14.48.09:550][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.02.13-14.48.09:550][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.09:582][980]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3F96E72DF0114E41BFB2A425BCB2CFBFE05153CF), compiling. 
+[2022.02.13-14.48.09:634][980]LogMaterial: Display: Missing cached shadermap for M_FloorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 764C1DE3BE6730EEA4593B1D59A8BFEF50F0ACA5), compiling. 
+[2022.02.13-14.48.09:795][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.02.13-14.48.13:174][980]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.13-14.48.13:184][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.13-14.48.15:587][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/M_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.48.15:594][980]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/M_FloorGrid72882C9446211C29835F3A84EF73D732.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/M_FloorGrid.uasset'
+[2022.02.13-14.48.15:615][980]AssetCheck: New page: Asset Save: M_FloorGrid
+[2022.02.13-14.48.15:615][980]LogContentValidation: Display: Validating Material /Game/Assets/Enviromments/FloorGrid/M_FloorGrid.M_FloorGrid
+[2022.02.13-14.48.15:616][980]MaterialEditorStats: Base pass shader: 320 instructions
+[2022.02.13-14.48.15:616][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 406 instructions
+[2022.02.13-14.48.15:616][980]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.02.13-14.48.15:616][980]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.13-14.48.15:616][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.13-14.48.29:296][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-14.48.30:672][458]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-14.48.30:716][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-14.48.30:723][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.13-14.48.30:727][458]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentE985DCD840E8691A9121A6BD2C6BAA42.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-14.48.30:740][458]LogFileHelpers: Saving map 'Enviromment' took 0.024
+[2022.02.13-14.48.30:748][458]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-14.48.30:748][458]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
+[2022.02.13-14.49.51:167][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.49.51:174][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.02.13-14.49.51:183][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.02.13-14.49.51:189][680]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid98CC2A81473823E368F73892A8DDE320.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset'
+[2022.02.13-14.49.51:212][680]AssetCheck: New page: Asset Save: MI_FloorGrid
+[2022.02.13-14.49.51:212][680]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid.MI_FloorGrid
+[2022.02.13-14.49.52:118][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.49.52:119][781]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid4BE94CFD412795709C563EB23C690340.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset'
+[2022.02.13-14.49.52:130][781]AssetCheck: New page: Asset Save: MI_FloorGrid
+[2022.02.13-14.49.52:130][781]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid.MI_FloorGrid
+[2022.02.13-14.50.25:502][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.02.13-14.51.07:420][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Enviromments/FloorGrid/MI_FloorGrid" FILE="G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset" SILENT=true
+[2022.02.13-14.51.07:426][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.02.13-14.51.07:434][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.02.13-14.51.07:440][402]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/MI_FloorGrid1676A1314F626965AEAC568AFE08F124.tmp' to 'G:/GameCraft/DroneFighter/Content/Assets/Enviromments/FloorGrid/MI_FloorGrid.uasset'
+[2022.02.13-14.51.07:461][402]AssetCheck: New page: Asset Save: MI_FloorGrid
+[2022.02.13-14.51.07:461][402]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Assets/Enviromments/FloorGrid/MI_FloorGrid.MI_FloorGrid
+[2022.02.13-14.51.09:481][584]LogSlate: Window 'MI_FloorGrid' being destroyed
+[2022.02.13-14.51.09:495][584]LogSlate: Window 'MI_FloorGrid' being destroyed
+[2022.02.13-14.51.09:507][584]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.13-14.51.09:507][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.13-14.51.11:108][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.02.13-14.51.12:581][741]LogSlate: Window 'Save Content' being destroyed
+[2022.02.13-14.51.12:623][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Enviromment" FILE="G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.13-14.51.12:629][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.02.13-14.51.12:633][741]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/EnvirommentF18ECCFC43CAA568A3E713BADA93FFBA.tmp' to 'G:/GameCraft/DroneFighter/Content/Maps/Enviromment.umap'
+[2022.02.13-14.51.12:646][741]LogFileHelpers: Saving map 'Enviromment' took 0.023
+[2022.02.13-14.51.12:656][741]AssetCheck: New page: Asset Save: Enviromment
+[2022.02.13-14.51.12:656][741]LogContentValidation: Display: Validating World /Game/Maps/Enviromment.Enviromment
