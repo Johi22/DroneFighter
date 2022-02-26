@@ -1997,3 +1997,383 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.26-13.35.00:067][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
 [2022.02.26-13.35.00:112][203]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2022.02.26-13.35.00:133][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.02.26-13.37.29:067][159]LogEditorTransaction: Undo Delete current selection
+[2022.02.26-13.37.53:906][957]LogEditorTransaction: Undo Expand Node
+[2022.02.26-13.38.16:010][450]LogEditorTransaction: Undo Move Nodes
+[2022.02.26-13.38.17:337][561]LogEditorTransaction: Undo Expand Node
+[2022.02.26-13.42.45:539][303]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-13.42.45:587][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.02.26-13.42.45:675][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.42.45:690][303]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player422A176F4CC805F6BFD73190BB90309E.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.42.45:724][303]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.42.45:724][303]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-13.43.14:508][679]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-13.43.14:548][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.26-13.43.14:624][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.43.14:638][679]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_PlayerD643A2EF465A029CDC7536A4EA2C068F.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.43.14:673][679]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.43.14:673][679]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7CADF6BB-4C69-77C6-AEE1-DDA8D34A88B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=17cf88564fc8953ec9a477826fa78811%7Ca1fd58acf8a54a31bc995f6cd5ca82d5%7Cc36c055e-5b0d-4653-b1a2-1f5ed00e6d56&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x18950307eb0 [can pipeline])
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.226.32.245) port 443 (#0))
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.26-13.45.40:618][300]LogHttp: Warning: 0000018980821D00: libcurl info message cache 7 (Closing connection 0)
+[2022.02.26-13.45.40:619][300]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7CADF6BB-4C69-77C6-AEE1-DDA8D34A88B5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=17cf88564fc8953ec9a477826fa78811%7Ca1fd58acf8a54a31bc995f6cd5ca82d5%7Cc36c055e-5b0d-4653-b1a2-1f5ed00e6d56&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.02.26-13.45.50:143][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.02.26-13.45.50:143][731]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestLevel' took 0.023
+[2022.02.26-13.45.50:144][731]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Player/BP_Player] ([4] browsable assets)...
+[2022.02.26-13.45.50:163][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.02.26-13.45.50:175][731]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_Player.BP_Player]
+[2022.02.26-13.45.50:175][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Player]
+[2022.02.26-13.45.50:175][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.02.26-13.45.50:193][731]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player_Auto181D668AA4015C8AF1D576C9F3122651A.tmp' to 'G:/GameCraft/DroneFighter/Saved/Autosaves/Game/Blueprints/Player/BP_Player_Auto1.uasset'
+[2022.02.26-13.45.50:193][731]LogFileHelpers: Auto-saving content packages took 0.050
+[2022.02.26-13.46.30:131][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_DF_PlayerController.BP_DF_PlayerController
+[2022.02.26-13.48.20:634][251]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-13.48.20:682][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.26-13.48.20:766][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.48.20:786][251]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player6AA8B4CD46D64316B1A13E8E67D7B0AF.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.48.20:823][251]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.48.20:823][251]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-13.50.11:398][260]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-13.50.11:404][260]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.26-13.50.11:406][260]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2022.02.26-13.50.11:505][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.50.11:522][260]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player21042F0B4F4A6EB499AE7986DC113984.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.50.11:581][260]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.26-13.50.11:582][260]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2022.02.26-13.50.11:582][260]PIE: New page: PIE session: TestLevel (2022. febr. 26. 15:50:11)
+[2022.02.26-13.50.11:582][260]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-13.50.11:583][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000872s)
+[2022.02.26-13.50.11:584][260]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.26-13.50.11:584][260]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2022.02.26-13.50.11:584][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.001970s)
+[2022.02.26-13.50.11:605][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.26-13.50.11:605][260]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-13.50.11:605][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-13.50.11:605][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-13.50.11:606][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-13.50.11:606][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-13.50.11:606][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-13.50.11:606][260]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-13.50.11:609][260]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-13.50.11:609][260]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-13.50.11:619][260]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.26-13.50.11:619][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-13.50.11:619][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-13.50.11:619][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-13.50.11:620][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-13.50.11:620][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-13.50.11:620][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-13.50.11:621][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-13.50.11:621][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-13.50.11:621][260]LogInit: FAudioDevice initialized.
+[2022.02.26-13.50.11:621][260]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestLevel'.
+[2022.02.26-13.50.11:668][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-13.50.11:668][260]LogLoad: Game class is 'BP_DF_GameMode_C'
+[2022.02.26-13.50.11:671][260]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.02.26-14.50.11
+[2022.02.26-13.50.11:672][260]LogWorld: Bringing up level for play took: 0.000530
+[2022.02.26-13.50.11:672][260]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.26-13.50.11:677][260]PIE: Server logged in
+[2022.02.26-13.50.11:678][260]PIE: Play in editor total start time 0,274 seconds.
+[2022.02.26-13.50.11:718][261]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.50.11:718][261]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-13.50.13:451][459]LogBlueprintUserMessages: [BP_Player_C_0] Secundery Fire
+[2022.02.26-13.50.14:504][585]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-13.50.16:767][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-13.50.16:767][849]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-13.50.16:767][849]LogSlate: Window 'DroneFighter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.26-13.50.16:773][849]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-13.50.16:773][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-13.50.16:780][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-13.50.16:801][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-13.50.16:820][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-13.50.16:821][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-13.50.16:825][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.02.26-13.50.16:839][850]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.26-13.50.16:863][850]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.26-13.51.56:974][589]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-13.51.57:021][589]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.02.26-13.51.57:094][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.51.57:110][589]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player2E3C43B444217381A55F5A9A2FB80B3B.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.51.57:150][589]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.51.57:150][589]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-13.51.58:387][722]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-13.51.58:393][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-13.51.58:394][722]PIE: New page: PIE session: TestLevel (2022. febr. 26. 15:51:58)
+[2022.02.26-13.51.58:394][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-13.51.58:395][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000895s)
+[2022.02.26-13.51.58:395][722]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.26-13.51.58:396][722]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2022.02.26-13.51.58:396][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.002006s)
+[2022.02.26-13.51.58:418][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.02.26-13.51.58:419][722]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-13.51.58:419][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-13.51.58:419][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-13.51.58:419][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-13.51.58:419][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-13.51.58:419][722]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-13.51.58:422][722]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-13.51.58:422][722]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-13.51.58:430][722]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.26-13.51.58:431][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-13.51.58:431][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-13.51.58:431][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-13.51.58:431][722]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-13.51.58:431][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-13.51.58:431][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-13.51.58:432][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-13.51.58:432][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-13.51.58:432][722]LogInit: FAudioDevice initialized.
+[2022.02.26-13.51.58:432][722]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestLevel'.
+[2022.02.26-13.51.58:490][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-13.51.58:490][722]LogLoad: Game class is 'BP_DF_GameMode_C'
+[2022.02.26-13.51.58:493][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.02.26-14.51.58
+[2022.02.26-13.51.58:493][722]LogWorld: Bringing up level for play took: 0.000462
+[2022.02.26-13.51.58:494][722]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.02.26-13.51.58:499][722]PIE: Server logged in
+[2022.02.26-13.51.58:500][722]PIE: Play in editor total start time 0,107 seconds.
+[2022.02.26-13.52.00:464][950]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-13.52.12:256][360]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-13.52.12:524][392]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-13.52.13:231][476]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-13.52.13:424][499]LogBlueprintUserMessages: [BP_Player_C_0] Secundery Fire
+[2022.02.26-13.52.13:639][525]Set new viewmode: Wireframe
+[2022.02.26-13.52.16:350][842]Set new viewmode: Wireframe
+[2022.02.26-13.52.17:487][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-13.52.17:487][974]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-13.52.17:487][974]LogSlate: Window 'DroneFighter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.26-13.52.17:495][974]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-13.52.17:495][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-13.52.17:505][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-13.52.17:525][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-13.52.17:544][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-13.52.17:545][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-13.52.17:546][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-13.52.17:550][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.02.26-13.52.17:569][975]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.26-13.52.17:591][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.26-13.57.22:030][ 36]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-13.57.22:078][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.02.26-13.57.22:162][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-13.57.22:179][ 36]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player0A0A2EEE46821BC5DF4CC19EC364286B.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-13.57.22:219][ 36]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-13.57.22:219][ 36]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-14.01.11:709][422]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-14.01.11:757][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.02.26-14.01.11:842][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-14.01.11:860][422]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player2B07AA5343EC819AE5AD48A123DF9CD7.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-14.01.11:903][422]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-14.01.11:903][422]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-14.03.19:985][637]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-14.03.20:033][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.02.26-14.03.20:114][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-14.03.20:133][637]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player0162853C4248E37DBF63E09339623C11.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-14.03.20:173][637]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-14.03.20:173][637]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-14.03.21:166][740]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-14.03.21:173][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-14.03.21:173][740]PIE: New page: PIE session: TestLevel (2022. febr. 26. 16:03:21)
+[2022.02.26-14.03.21:173][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.03.21:174][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000955s)
+[2022.02.26-14.03.21:175][740]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.26-14.03.21:175][740]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2022.02.26-14.03.21:175][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.002089s)
+[2022.02.26-14.03.21:198][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.26-14.03.21:199][740]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-14.03.21:199][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-14.03.21:199][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-14.03.21:199][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-14.03.21:199][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-14.03.21:199][740]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-14.03.21:203][740]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-14.03.21:203][740]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-14.03.21:211][740]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.26-14.03.21:212][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-14.03.21:212][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-14.03.21:212][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-14.03.21:212][740]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-14.03.21:212][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-14.03.21:212][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-14.03.21:213][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-14.03.21:213][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-14.03.21:213][740]LogInit: FAudioDevice initialized.
+[2022.02.26-14.03.21:213][740]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestLevel'.
+[2022.02.26-14.03.21:263][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.03.21:263][740]LogLoad: Game class is 'BP_DF_GameMode_C'
+[2022.02.26-14.03.21:266][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.02.26-15.03.21
+[2022.02.26-14.03.21:267][740]LogWorld: Bringing up level for play took: 0.000436
+[2022.02.26-14.03.21:267][740]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.26-14.03.21:271][740]PIE: Server logged in
+[2022.02.26-14.03.21:272][740]PIE: Play in editor total start time 0,1 seconds.
+[2022.02.26-14.03.22:312][854]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.03.23:521][996]LogBlueprintUserMessages: [BP_Player_C_0] Secundery Fire
+[2022.02.26-14.03.26:788][384]Set new viewmode: Wireframe
+[2022.02.26-14.03.27:530][472]Set new viewmode: Wireframe
+[2022.02.26-14.03.28:658][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.03.28:658][604]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.03.28:659][604]LogSlate: Window 'DroneFighter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.26-14.03.28:665][604]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.03.28:666][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.03.28:677][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-14.03.28:696][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.03.28:720][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-14.03.28:720][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.03.28:722][604]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.03.28:727][604]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.26-14.03.28:745][605]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.26-14.03.28:767][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.26-14.03.57:185][840]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-14.03.57:232][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.02.26-14.03.57:318][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-14.03.57:336][840]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player22AF53474ABAD2DABA08DCAC0A89A6EF.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-14.03.57:374][840]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-14.03.57:374][840]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-14.03.58:503][950]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-14.03.58:509][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-14.03.58:509][950]PIE: New page: PIE session: TestLevel (2022. febr. 26. 16:03:58)
+[2022.02.26-14.03.58:510][950]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.03.58:510][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000844s)
+[2022.02.26-14.03.58:511][950]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.26-14.03.58:511][950]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2022.02.26-14.03.58:512][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.001943s)
+[2022.02.26-14.03.58:534][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.02.26-14.03.58:535][950]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-14.03.58:535][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-14.03.58:535][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-14.03.58:535][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-14.03.58:535][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-14.03.58:535][950]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-14.03.58:539][950]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-14.03.58:539][950]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-14.03.58:546][950]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.26-14.03.58:547][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-14.03.58:547][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-14.03.58:547][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-14.03.58:547][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-14.03.58:547][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-14.03.58:547][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-14.03.58:548][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-14.03.58:548][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-14.03.58:548][950]LogInit: FAudioDevice initialized.
+[2022.02.26-14.03.58:549][950]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestLevel'.
+[2022.02.26-14.03.58:597][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.03.58:597][950]LogLoad: Game class is 'BP_DF_GameMode_C'
+[2022.02.26-14.03.58:601][950]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.02.26-15.03.58
+[2022.02.26-14.03.58:601][950]LogWorld: Bringing up level for play took: 0.000591
+[2022.02.26-14.03.58:601][950]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.26-14.03.58:606][950]PIE: Server logged in
+[2022.02.26-14.03.58:607][950]PIE: Play in editor total start time 0,099 seconds.
+[2022.02.26-14.03.59:654][ 66]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.04.01:283][258]LogBlueprintUserMessages: [BP_Player_C_0] Secundery Fire
+[2022.02.26-14.04.01:309][261]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.04.32:898][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.04.32:898][ 29]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.04.32:898][ 29]LogSlate: Window 'DroneFighter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.26-14.04.32:905][ 29]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.04.32:905][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.04.32:915][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-14.04.32:934][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.04.32:954][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-14.04.32:955][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.04.32:956][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.04.32:960][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.26-14.04.32:979][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.26-14.04.33:001][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.26-14.06.50:145][124]BlueprintLog: New page: Compile BP_Player
+[2022.02.26-14.06.50:189][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.26-14.06.50:276][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player" FILE="G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset" SILENT=true
+[2022.02.26-14.06.50:297][124]LogSavePackage: Moving 'G:/GameCraft/DroneFighter/Saved/BP_Player40B278D440642B868B19DB8CCB270B64.tmp' to 'G:/GameCraft/DroneFighter/Content/Blueprints/Player/BP_Player.uasset'
+[2022.02.26-14.06.50:337][124]AssetCheck: New page: Asset Save: BP_Player
+[2022.02.26-14.06.50:337][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player/BP_Player.BP_Player
+[2022.02.26-14.06.52:156][334]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.26-14.06.52:164][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.26-14.06.52:164][334]PIE: New page: PIE session: TestLevel (2022. febr. 26. 16:06:52)
+[2022.02.26-14.06.52:164][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.06.52:165][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001005s)
+[2022.02.26-14.06.52:166][334]LogAIModule: Creating AISystem for world TestLevel
+[2022.02.26-14.06.52:166][334]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2022.02.26-14.06.52:166][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestLevel.TestLevel to /Game/Maps/UEDPIE_0_TestLevel.TestLevel (0.002209s)
+[2022.02.26-14.06.52:190][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.02.26-14.06.52:190][334]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.26-14.06.52:190][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.26-14.06.52:190][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.26-14.06.52:191][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.26-14.06.52:191][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.26-14.06.52:191][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.26-14.06.52:191][334]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.26-14.06.52:194][334]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-14.06.52:194][334]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-14.06.52:202][334]LogAudioMixer: Display: Using Audio Device Hangszórók (USB Audio Device)
+[2022.02.26-14.06.52:202][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.26-14.06.52:202][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.26-14.06.52:202][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.26-14.06.52:203][334]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.26-14.06.52:203][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.26-14.06.52:203][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.26-14.06.52:204][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.26-14.06.52:204][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.26-14.06.52:204][334]LogInit: FAudioDevice initialized.
+[2022.02.26-14.06.52:204][334]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestLevel'.
+[2022.02.26-14.06.52:257][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.06.52:257][334]LogLoad: Game class is 'BP_DF_GameMode_C'
+[2022.02.26-14.06.52:261][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2022.02.26-15.06.52
+[2022.02.26-14.06.52:262][334]LogWorld: Bringing up level for play took: 0.001005
+[2022.02.26-14.06.52:262][334]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.02.26-14.06.52:268][334]PIE: Server logged in
+[2022.02.26-14.06.52:269][334]PIE: Play in editor total start time 0,106 seconds.
+[2022.02.26-14.06.53:013][414]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.06.53:596][481]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.06.54:000][527]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.07.05:942][922]LogBlueprintUserMessages: [BP_Player_C_0] Primary Fire
+[2022.02.26-14.07.06:518][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.26-14.07.06:518][984]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestLevel
+[2022.02.26-14.07.06:518][984]LogSlate: Window 'DroneFighter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.26-14.07.06:526][984]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-14.07.06:527][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.07.06:538][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.26-14.07.06:557][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-14.07.06:576][984]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-14.07.06:577][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.07.06:578][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.26-14.07.06:582][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.02.26-14.07.06:602][985]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.02.26-14.07.06:623][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
